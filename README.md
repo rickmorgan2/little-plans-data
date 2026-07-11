@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # little-plans-data
 
 Data collection and curation pipeline for **Little Plans**. It gathers DC-area
@@ -141,6 +140,3 @@ deliberately flip that; run both for a while and compare.
 4. Drop a real sample payload in `fixtures/` and reference it in frontmatter.
 5. `node scripts/run.js --skill <name> --fixtures`, then live, then
    `enabled: true`. CI picks the fixture up automatically.
-=======
-# little-plans-data
->>>>>>> 088f17ac8a8feacb49b23a449495caea807de089
