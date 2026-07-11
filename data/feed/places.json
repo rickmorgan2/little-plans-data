@@ -1,0 +1,2495 @@
+{
+ "generated": "2026-07-11T22:34:24.403Z",
+ "count": 147,
+ "places": [
+  {
+   "id": "dcrf-0074040956",
+   "source": "dc-rec-facilities",
+   "name": "Chevy Chase Playground",
+   "kind": "playground",
+   "address": "5500 41ST STREET NW",
+   "lat": 38.96346688661363,
+   "lon": -77.08075619082365,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2200",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-029516d159",
+   "source": "dc-rec-facilities",
+   "name": "Petworth Spray Park",
+   "kind": "spray_park",
+   "address": "801 TAYLOR STREET NW",
+   "lat": 38.941293945476104,
+   "lon": -77.02404991160459,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-6850",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-0447462073",
+   "source": "dc-rec-facilities",
+   "name": "Columbia Heights Civic Plaza",
+   "kind": "spray_park",
+   "address": "14TH STREET NW AND PARK ROAD NW",
+   "lat": 38.9302400277032,
+   "lon": -77.03247857483642,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-0516e27e18",
+   "source": "dc-rec-facilities",
+   "name": "Langdon Park Spray Park",
+   "kind": "spray_park",
+   "address": "2860 MILLS AVENUE NE",
+   "lat": 38.9268690884241,
+   "lon": -76.97407349275203,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-8655",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-0c113a8e56",
+   "source": "dc-rec-facilities",
+   "name": "Deanwood Aquatic Center",
+   "kind": "pool",
+   "address": "1350 49TH STREET NE",
+   "lat": 38.908452272821066,
+   "lon": -76.93215496031156,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-3078",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-0e940eb538",
+   "source": "dc-rec-facilities",
+   "name": "Hearst Recreation Center",
+   "kind": "rec_center",
+   "address": "3950 37TH STREET NW",
+   "lat": 38.94041848909864,
+   "lon": -77.07125578591024,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2207",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-0ec484d541",
+   "source": "dc-rec-facilities",
+   "name": "Anacostia Pool",
+   "kind": "pool",
+   "address": "1800 ANACOSTIA DRIVE SE",
+   "lat": 38.872605184820806,
+   "lon": -76.98313307323978,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 724-1441",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-118e706c00",
+   "source": "dc-rec-facilities",
+   "name": "Oxon Run Pool",
+   "kind": "pool",
+   "address": "501 MISSISSIPPI AVENUE SE",
+   "lat": 38.83676372679084,
+   "lon": -76.9989334798007,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-5042",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-12408bdd1c",
+   "source": "dc-rec-facilities",
+   "name": "Joy Evans Therapeutic RC Spray Park",
+   "kind": "spray_park",
+   "address": "3030 G STREET SE",
+   "lat": 38.881136049978394,
+   "lon": -76.96304885541791,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 698-1794",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-13ce1da896",
+   "source": "dc-rec-facilities",
+   "name": "Edgewood RC Spray Park",
+   "kind": "spray_park",
+   "address": "301 FRANKLIN STREET NE",
+   "lat": 38.925164383295,
+   "lon": -77.00204267689806,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 788-2204",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-141f74cfaf",
+   "source": "dc-rec-facilities",
+   "name": "Volta Park Pool",
+   "kind": "pool",
+   "address": "1555 34TH STREET NW",
+   "lat": 38.91010946891623,
+   "lon": -77.06680484048907,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-5669",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-1424023ad9",
+   "source": "dc-rec-facilities",
+   "name": "Macomb RC Spray Park",
+   "kind": "spray_park",
+   "address": "3409 MACOMB STREET NW",
+   "lat": 38.93364253088794,
+   "lon": -77.06723319734482,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2199",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-148f661549",
+   "source": "dc-rec-facilities",
+   "name": "Roosevelt Aquatic Center",
+   "kind": "pool",
+   "address": "4301 13TH STREET NW",
+   "lat": 38.94309067001594,
+   "lon": -77.02888944972155,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 730-0583",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-16d06c4d1f",
+   "source": "dc-rec-facilities",
+   "name": "Franklin Park Spray Park",
+   "kind": "spray_park",
+   "address": "1315 I STREET NW",
+   "lat": 38.90193131467165,
+   "lon": -77.03083097686071,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-1ebc65abb3",
+   "source": "dc-rec-facilities",
+   "name": "Trinidad Recreation Center",
+   "kind": "rec_center",
+   "address": "1310 CHILDRESS STREET NE",
+   "lat": 38.90644979959019,
+   "lon": -76.98274924093164,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-1293",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-20287f2071",
+   "source": "dc-rec-facilities",
+   "name": "Watkins Recreation Center",
+   "kind": "rec_center",
+   "address": "420 12TH STREET SE",
+   "lat": 38.88336013949014,
+   "lon": -76.98985762372668,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 899-6005",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-2110fc0eb2",
+   "source": "dc-rec-facilities",
+   "name": "Guy Mason RC Spray Park",
+   "kind": "spray_park",
+   "address": "3600 CALVERT STREET NW",
+   "lat": 38.92202601068007,
+   "lon": -77.07209631595177,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-7527",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-23af4617bb",
+   "source": "dc-rec-facilities",
+   "name": "Glover Park Community Center",
+   "kind": "rec_center",
+   "address": "4001 CALVERT STREET NW",
+   "lat": 38.92319368668351,
+   "lon": -77.07898250805462,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 299-3324",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-23d4806fa3",
+   "source": "dc-rec-facilities",
+   "name": "Fort Greble Spray Park",
+   "kind": "spray_park",
+   "address": "MARTIN LUTHER KING JR AVENUE SW AND ELMIRA STREET SW",
+   "lat": 38.8260589787724,
+   "lon": -77.01258839767908,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-23ea65b535",
+   "source": "dc-rec-facilities",
+   "name": "Harrison Recreation Center",
+   "kind": "rec_center",
+   "address": "1330 V STREET NW",
+   "lat": 38.91796064298706,
+   "lon": -77.03029117145667,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-6865",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-291977df63",
+   "source": "dc-rec-facilities",
+   "name": "Kenilworth Pool",
+   "kind": "pool",
+   "address": "4321 ORD STREET NE",
+   "lat": 38.90834522118763,
+   "lon": -76.94095418163602,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 258-6513",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-2a3da50244",
+   "source": "dc-rec-facilities",
+   "name": "Park View Children's Pool",
+   "kind": "pool",
+   "address": "693 OTIS PLACE NW",
+   "lat": 38.93501889764616,
+   "lon": -77.02137822576766,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-8658",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-2b80a5c54f",
+   "source": "dc-rec-facilities",
+   "name": "Langdon Park Community Center",
+   "kind": "rec_center",
+   "address": "2901 20TH STREET NE",
+   "lat": 38.92683218971854,
+   "lon": -76.97579260327633,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 654-6102",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-2cecc3a4b5",
+   "source": "dc-rec-facilities",
+   "name": "H.D. Woodson Aquatic Center",
+   "kind": "pool",
+   "address": "540 55TH STREET NE",
+   "lat": 38.896794076579894,
+   "lon": -76.92233051487088,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-2097",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-2e776f52df",
+   "source": "dc-rec-facilities",
+   "name": "Randall Recreation Center",
+   "kind": "rec_center",
+   "address": "820 SOUTH CAPITOL STREET SW",
+   "lat": 38.87957243354513,
+   "lon": -77.00941305047004,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 545-7255",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-2fcffa4973",
+   "source": "dc-rec-facilities",
+   "name": "Fort Davis Recreation Center",
+   "kind": "rec_center",
+   "address": "1400 41ST STREET SE",
+   "lat": 38.86908825834653,
+   "lon": -76.94464861953489,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-9212",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-2fffe5b097",
+   "source": "dc-rec-facilities",
+   "name": "Takoma CC Spray Park",
+   "kind": "spray_park",
+   "address": "300 VAN BUREN STREET NW",
+   "lat": 38.97025214937708,
+   "lon": -77.01704381736553,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-9284",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-302bcba8c3",
+   "source": "dc-rec-facilities",
+   "name": "Benning Stoddert Recreation Center",
+   "kind": "rec_center",
+   "address": "100 STODDERT PLACE SE",
+   "lat": 38.888897527230675,
+   "lon": -76.94821735225547,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 698-1873",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-309120251d",
+   "source": "dc-rec-facilities",
+   "name": "Kennedy Recreation Center",
+   "kind": "rec_center",
+   "address": "1401 7TH STREET NW",
+   "lat": 38.908972758870554,
+   "lon": -77.02153277872227,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-4794",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-30ffd46155",
+   "source": "dc-rec-facilities",
+   "name": "Mitchell Park Recreation Center",
+   "kind": "rec_center",
+   "address": "1801 23RD STREET NW",
+   "lat": 38.91457349568244,
+   "lon": -77.04999574587521,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 674-6641",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-327ee853d6",
+   "source": "dc-rec-facilities",
+   "name": "East Potomac Pool",
+   "kind": "pool",
+   "address": "972 OHIO DRIVE SW",
+   "lat": 38.874622596899684,
+   "lon": -77.02675820120687,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-6523",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-352b33298b",
+   "source": "dc-rec-facilities",
+   "name": "Eastern Market Metro Spray Park",
+   "kind": "spray_park",
+   "address": "701 PENNSYLVANIA AVENUE SE",
+   "lat": 38.88425286650401,
+   "lon": -76.99581524412214,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-393a57b732",
+   "source": "dc-rec-facilities",
+   "name": "Bald Eagle Recreation Center",
+   "kind": "rec_center",
+   "address": "100 JOLIET STREET SW",
+   "lat": 38.81889292672737,
+   "lon": -77.0101615470316,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-5125",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-393ece873e",
+   "source": "dc-rec-facilities",
+   "name": "Rita Bright Family & Youth Center",
+   "kind": "rec_center",
+   "address": "2500 14TH STREET NW",
+   "lat": 38.92200652900071,
+   "lon": -77.03236441971391,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-0025",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-3d47f17cb3",
+   "source": "dc-rec-facilities",
+   "name": "Barry Farm Recreation Center",
+   "kind": "rec_center",
+   "address": "1230 SUMNER ROAD SE",
+   "lat": 38.86033039979246,
+   "lon": -76.99630242764403,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 442-5420",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-3d6f690f53",
+   "source": "dc-rec-facilities",
+   "name": "Hardy Recreation Center",
+   "kind": "rec_center",
+   "address": "4500 Q STREET NW",
+   "lat": 38.90991005318026,
+   "lon": -77.0849828952778,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2190",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-3f86e4aa9b",
+   "source": "dc-rec-facilities",
+   "name": "William H. Rumsey Aquatic Center",
+   "kind": "pool",
+   "address": "635 NORTH CAROLINA AVENUE SE",
+   "lat": 38.88659283133433,
+   "lon": -76.99703097620691,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 724-4495",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-408016fe85",
+   "source": "dc-rec-facilities",
+   "name": "Ferebee-Hope Aquatic Center",
+   "kind": "pool",
+   "address": "700 YUMA STREET SE",
+   "lat": 38.83224573037591,
+   "lon": -76.99685426781593,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-3916",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-40fe8cc1b6",
+   "source": "dc-rec-facilities",
+   "name": "Jelleff Community Center",
+   "kind": "rec_center",
+   "address": "3265 S STREET NW",
+   "lat": 38.91572058517843,
+   "lon": -77.06683560262432,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 462-1317",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-4170d22d16",
+   "source": "dc-rec-facilities",
+   "name": "Marvin Gaye RC Spray Park",
+   "kind": "spray_park",
+   "address": "6201 BANKS PLACE NE",
+   "lat": 38.89173900107404,
+   "lon": -76.91236170650146,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 899-6004",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-462e0c7930",
+   "source": "dc-rec-facilities",
+   "name": "Theodore Hagans Pool",
+   "kind": "pool",
+   "address": "3201 FORT LINCOLN DRIVE NE",
+   "lat": 38.92419153191406,
+   "lon": -76.95827591801788,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-3019",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-49616b8ee3",
+   "source": "dc-rec-facilities",
+   "name": "Chevy Chase RC Spray Park",
+   "kind": "spray_park",
+   "address": "5500 41ST STREET NW",
+   "lat": 38.963311090608904,
+   "lon": -77.08087091407671,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-7714",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-4ba7123244",
+   "source": "dc-rec-facilities",
+   "name": "Deanwood Community Center",
+   "kind": "rec_center",
+   "address": "1350 49TH STREET NE",
+   "lat": 38.908454043631195,
+   "lon": -76.9321638709808,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-3077",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-4cd8c09f2f",
+   "source": "dc-rec-facilities",
+   "name": "Arthur Capper Community Center",
+   "kind": "rec_center",
+   "address": "1000 5TH STREET SE",
+   "lat": 38.877912418671706,
+   "lon": -76.99912881920292,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 478-9260",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-51751f6ecd",
+   "source": "dc-rec-facilities",
+   "name": "Fort Stanton Pool",
+   "kind": "pool",
+   "address": "1800 ERIE STREET SE",
+   "lat": 38.85765276155317,
+   "lon": -76.97830876631113,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 678-1798",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-51cf460e45",
+   "source": "dc-rec-facilities",
+   "name": "Reservoir Park Aquatic Center",
+   "kind": "pool",
+   "address": "10 LOWER SERVICE COURT NW",
+   "lat": 38.92319382009672,
+   "lon": -77.01007382418406,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-1289",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-53321d928d",
+   "source": "dc-rec-facilities",
+   "name": "Randall Pool",
+   "kind": "pool",
+   "address": "25 I STREET SW",
+   "lat": 38.87985017421791,
+   "lon": -77.01033714526581,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-1420",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-535382e258",
+   "source": "dc-rec-facilities",
+   "name": "New York Avenue Recreation Center",
+   "kind": "rec_center",
+   "address": "100 N STREET NW",
+   "lat": 38.90673104275165,
+   "lon": -77.01322095289844,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 899-6280",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-56c552abf8",
+   "source": "dc-rec-facilities",
+   "name": "Malcolm X Opportunity Center",
+   "kind": "rec_center",
+   "address": "1351 ALABAMA AVENUE SE",
+   "lat": 38.844986598801036,
+   "lon": -76.98614875294633,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-9152",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-58d24ce811",
+   "source": "dc-rec-facilities",
+   "name": "Edgewood Recreation Center",
+   "kind": "rec_center",
+   "address": "301 FRANKLIN STREET NE",
+   "lat": 38.92489156036452,
+   "lon": -77.00186207452178,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 788-2204",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-5939bc2562",
+   "source": "dc-rec-facilities",
+   "name": "Banneker Community Center",
+   "kind": "rec_center",
+   "address": "2500 GEORGIA AVENUE NW",
+   "lat": 38.92271233332714,
+   "lon": -77.02258554356888,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-6861",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-5e9b5b85d3",
+   "source": "dc-rec-facilities",
+   "name": "14th and Girard Street Spray Park",
+   "kind": "spray_park",
+   "address": "14TH STREET NW AND GIRARD STREET NW",
+   "lat": 38.92552986533417,
+   "lon": -77.0320975579763,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-6206e2d9f2",
+   "source": "dc-rec-facilities",
+   "name": "Congress Heights Recreation Center",
+   "kind": "rec_center",
+   "address": "611 ALABAMA AVENUE SE",
+   "lat": 38.84225334967658,
+   "lon": -76.99682734526486,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-3981",
+    "status": "Closed For Renovations"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-6613af8f0a",
+   "source": "dc-rec-facilities",
+   "name": "Palisades Community Center",
+   "kind": "rec_center",
+   "address": "5200 SHERIER PLACE NW",
+   "lat": 38.92447892767858,
+   "lon": -77.10456705626682,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 545-7201",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-67b2e2c5a2",
+   "source": "dc-rec-facilities",
+   "name": "Volta Park Recreation Center",
+   "kind": "rec_center",
+   "address": "1555 34TH STREET NW",
+   "lat": 38.91010946891623,
+   "lon": -77.06680484048907,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-5668",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-68394c05a4",
+   "source": "dc-rec-facilities",
+   "name": "Macomb Recreation Center",
+   "kind": "rec_center",
+   "address": "3409 MACOMB STREET NW",
+   "lat": 38.933710781903066,
+   "lon": -77.06699076673883,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2199",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-693270f306",
+   "source": "dc-rec-facilities",
+   "name": "Theodore Hagans Cultural Center",
+   "kind": "rec_center",
+   "address": "3201 FORT LINCOLN DRIVE NE",
+   "lat": 38.92418654133799,
+   "lon": -76.95827601319453,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-3017",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-6c193bf97b",
+   "source": "dc-rec-facilities",
+   "name": "Park at LeDroit Spray Park",
+   "kind": "spray_park",
+   "address": "319 OAKDALE PLACE NW",
+   "lat": 38.91831910239803,
+   "lon": -77.01640718822497,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-70fbad7302",
+   "source": "dc-rec-facilities",
+   "name": "Harry Thomas Pool",
+   "kind": "pool",
+   "address": "1743 LINCOLN ROAD NE",
+   "lat": 38.91399351178317,
+   "lon": -77.0078704376956,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 541-7499",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-712c078b08",
+   "source": "dc-rec-facilities",
+   "name": "Ridge Road Pool",
+   "kind": "pool",
+   "address": "830 RIDGE ROAD SE",
+   "lat": 38.87644137128885,
+   "lon": -76.94072530292858,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-5046",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7161b4cb14",
+   "source": "dc-rec-facilities",
+   "name": "Columbia Heights CC Spray Park",
+   "kind": "spray_park",
+   "address": "1480 GIRARD STREET NW",
+   "lat": 38.92460735218557,
+   "lon": -77.03418742998193,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-0373",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7251c6d209",
+   "source": "dc-rec-facilities",
+   "name": "Anacostia Recreation Center",
+   "kind": "rec_center",
+   "address": "1800 ANACOSTIA DRIVE SE",
+   "lat": 38.87260643692899,
+   "lon": -76.98313265808818,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 698-2250",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-732e62f030",
+   "source": "dc-rec-facilities",
+   "name": "Palisades Spray Park",
+   "kind": "spray_park",
+   "address": "5200 SHERIER PLACE NW",
+   "lat": 38.924819985262474,
+   "lon": -77.10395857471072,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2186",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-73e942fcc3",
+   "source": "dc-rec-facilities",
+   "name": "Emery Heights Community Center",
+   "kind": "rec_center",
+   "address": "5701 GEORGIA AVENUE NW",
+   "lat": 38.95864270895285,
+   "lon": -77.02785136290227,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-3211",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-740dbe3776",
+   "source": "dc-rec-facilities",
+   "name": "Hillcrest RC Spray Park",
+   "kind": "spray_park",
+   "address": "3100 DENVER STREET SE",
+   "lat": 38.858187885433104,
+   "lon": -76.96234331759962,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-9200",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7b40b05a0c",
+   "source": "dc-rec-facilities",
+   "name": "Marvin Gaye Park at Division Avenue",
+   "kind": "spray_park",
+   "address": "DIVISION AVENUE NE AND FOOTE STREET NE",
+   "lat": 38.89698313694032,
+   "lon": -76.92641024283614,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 899-6004",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7b42cd3a2e",
+   "source": "dc-rec-facilities",
+   "name": "Lincoln Capper Children's Pool",
+   "kind": "pool",
+   "address": "555 L STREET SE",
+   "lat": 38.87733843178549,
+   "lon": -76.99838201333722,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-1080",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7b6b64b8ab",
+   "source": "dc-rec-facilities",
+   "name": "Reservoir Park Recreation Center",
+   "kind": "rec_center",
+   "address": "10 LOWER SERVICE COURT NW",
+   "lat": 38.92319382009672,
+   "lon": -77.01007382418406,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 299-2069",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7c8b61653f",
+   "source": "dc-rec-facilities",
+   "name": "Fort Greble Recreation Center",
+   "kind": "rec_center",
+   "address": "250 ELMIRA STREET SW",
+   "lat": 38.826682783308826,
+   "lon": -77.01471127204454,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7cb6547d26",
+   "source": "dc-rec-facilities",
+   "name": "DPR Central Office",
+   "kind": "rec_center",
+   "address": "1275 1ST STREET NE",
+   "lat": 38.90683443153527,
+   "lon": -77.0054398245492,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-7647",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7ce210fd00",
+   "source": "dc-rec-facilities",
+   "name": "Fort Stevens RC Spray Park",
+   "kind": "spray_park",
+   "address": "1327 VAN BUREN STREET NW",
+   "lat": 38.97048191735544,
+   "lon": -77.0309081445862,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 541-3754",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7e473faa3e",
+   "source": "dc-rec-facilities",
+   "name": "Kennedy RC Spray Park",
+   "kind": "spray_park",
+   "address": "1401 7TH STREET NW",
+   "lat": 38.909494369966374,
+   "lon": -77.02143009101795,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-4794",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-7e67177751",
+   "source": "dc-rec-facilities",
+   "name": "Upshur Pool",
+   "kind": "pool",
+   "address": "4300 ARKANSAS AVENUE NW",
+   "lat": 38.944189024233076,
+   "lon": -77.03170194580055,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-8661",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-810a0cadf0",
+   "source": "dc-rec-facilities",
+   "name": "Park View Recreation Center",
+   "kind": "rec_center",
+   "address": "693 OTIS PLACE NW",
+   "lat": 38.935019502082106,
+   "lon": -77.02137341633022,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-2186",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-812f1b96ac",
+   "source": "dc-rec-facilities",
+   "name": "Banneker Pool",
+   "kind": "pool",
+   "address": "2500 GEORGIA AVENUE NW",
+   "lat": 38.92270496719976,
+   "lon": -77.02257166840091,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-2121",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-8260b1b1c4",
+   "source": "dc-rec-facilities",
+   "name": "Hardy Recreation Center Spray Park",
+   "kind": "spray_park",
+   "address": "4500 Q STREET NW",
+   "lat": 38.90968477675099,
+   "lon": -77.0851254230023,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2190",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-82d5847828",
+   "source": "dc-rec-facilities",
+   "name": "Stead RC Spray Park",
+   "kind": "spray_park",
+   "address": "1625 P STREET NW",
+   "lat": 38.91016087639242,
+   "lon": -77.0373434625182,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-4465",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-8481981aff",
+   "source": "dc-rec-facilities",
+   "name": "Joseph Cole Community Center",
+   "kind": "rec_center",
+   "address": "1299 NEAL STREET NE",
+   "lat": 38.9041251995325,
+   "lon": -76.9885030510634,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 442-9262",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-85bae0fa4c",
+   "source": "dc-rec-facilities",
+   "name": "Raymond Recreation Center",
+   "kind": "rec_center",
+   "address": "3725 10TH STREET NW",
+   "lat": 38.93644237957994,
+   "lon": -77.02664390611122,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-2181",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-8b95c7f326",
+   "source": "dc-rec-facilities",
+   "name": "Turkey Thicket Aquatic Center",
+   "kind": "pool",
+   "address": "1100 MICHIGAN AVENUE NE",
+   "lat": 38.938071784231745,
+   "lon": -76.992602295996,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-9236",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-8f7ffc5fe0",
+   "source": "dc-rec-facilities",
+   "name": "Hamilton Recreation Center",
+   "kind": "rec_center",
+   "address": "1340 HAMILTON STREET NW",
+   "lat": 38.95262518583775,
+   "lon": -77.03134214173491,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-6855",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-94059bcb93",
+   "source": "dc-rec-facilities",
+   "name": "Lamond Recreation Center",
+   "kind": "rec_center",
+   "address": "20 TUCKERMAN STREET NE",
+   "lat": 38.96773456791688,
+   "lon": -77.00823881902247,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-9541",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-95bb3ddc2f",
+   "source": "dc-rec-facilities",
+   "name": "Hillcrest Recreation Center",
+   "kind": "rec_center",
+   "address": "3100 DENVER STREET SE",
+   "lat": 38.85881788655319,
+   "lon": -76.96264206149905,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-9200",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-95f038c5af",
+   "source": "dc-rec-facilities",
+   "name": "Benning Stoddert CC Spray Park",
+   "kind": "spray_park",
+   "address": "100 STODDERT PLACE SE",
+   "lat": 38.889136757660964,
+   "lon": -76.94840941662382,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 698-1873",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-985828a630",
+   "source": "dc-rec-facilities",
+   "name": "Riggs-LaSalle Spray Park",
+   "kind": "spray_park",
+   "address": "501 RIGGS ROAD NE",
+   "lat": 38.96007700031584,
+   "lon": -76.99877648787078,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-5224",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-98714efbef",
+   "source": "dc-rec-facilities",
+   "name": "Woody Ward Community Center",
+   "kind": "rec_center",
+   "address": "5100 SOUTHERN AVENUE SE",
+   "lat": 38.87980998074042,
+   "lon": -76.92691127462524,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-3957",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-9a9731ff8d",
+   "source": "dc-rec-facilities",
+   "name": "Marie Reed Aquatic Center",
+   "kind": "pool",
+   "address": "2200 CHAMPLAIN STREET NW",
+   "lat": 38.919175096296904,
+   "lon": -77.04053223899194,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-0297",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-9c01b27468",
+   "source": "dc-rec-facilities",
+   "name": "RH Terrell Recreation Center",
+   "kind": "rec_center",
+   "address": "155 L STREET NW",
+   "lat": 38.9040102045502,
+   "lon": -77.01361911592363,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 939-5948",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-9cf79a0181",
+   "source": "dc-rec-facilities",
+   "name": "Lafayette-Pointer Spray Park",
+   "kind": "spray_park",
+   "address": "5900 33RD STREET NW",
+   "lat": 38.9679563254616,
+   "lon": -77.06775351661926,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2206",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-9d9d96ef94",
+   "source": "dc-rec-facilities",
+   "name": "Wilson Aquatic Center",
+   "kind": "pool",
+   "address": "4551 FORT DRIVE NW",
+   "lat": 38.949288526713254,
+   "lon": -77.0779335047969,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 730-0583",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a20a9bc2c5",
+   "source": "dc-rec-facilities",
+   "name": "Barry Farm Aquatic Center",
+   "kind": "pool",
+   "address": "1230 SUMNER ROAD SE",
+   "lat": 38.860336120283385,
+   "lon": -76.99630694388902,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 442-5420",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a223ebfd56",
+   "source": "dc-rec-facilities",
+   "name": "Ridge Road Community Center",
+   "kind": "rec_center",
+   "address": "830 RIDGE ROAD SE",
+   "lat": 38.87644137128885,
+   "lon": -76.94072530292858,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-6747",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a443a24659",
+   "source": "dc-rec-facilities",
+   "name": "Douglass Community Center",
+   "kind": "rec_center",
+   "address": "1922 FREDERICK DOUGLASS COURT SE",
+   "lat": 38.852613029315904,
+   "lon": -76.97777121685611,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-3980",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a47900184e",
+   "source": "dc-rec-facilities",
+   "name": "Rosedale Pool",
+   "kind": "pool",
+   "address": "1701 GALES STREET NE",
+   "lat": 38.89781940244976,
+   "lon": -76.97913631139863,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 397-1315",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a5651e5d1b",
+   "source": "dc-rec-facilities",
+   "name": "King Greenleaf RC Spray Park",
+   "kind": "spray_park",
+   "address": "201 N STREET SW",
+   "lat": 38.874961100575774,
+   "lon": -77.01238312597646,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-7454",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a6098beb70",
+   "source": "dc-rec-facilities",
+   "name": "Chevy Chase Recreation Center",
+   "kind": "rec_center",
+   "address": "5500 41ST STREET NW",
+   "lat": 38.96346688661363,
+   "lon": -77.08075619082365,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-7714",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a7698b5148",
+   "source": "dc-rec-facilities",
+   "name": "Sherwood Recreation Center",
+   "kind": "rec_center",
+   "address": "640 10TH STREET NE",
+   "lat": 38.89860695530187,
+   "lon": -76.9931711311788,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 698-3075",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a8b4a80248",
+   "source": "dc-rec-facilities",
+   "name": "Takoma Community Center",
+   "kind": "rec_center",
+   "address": "300 VAN BUREN STREET NW",
+   "lat": 38.96932079192747,
+   "lon": -77.01803404515307,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-7068",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-a924ca8960",
+   "source": "dc-rec-facilities",
+   "name": "Douglass Pool",
+   "kind": "pool",
+   "address": "1921 FREDERICK DOUGLASS COURT SE",
+   "lat": 38.852609361585316,
+   "lon": -76.97729630669673,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-5045",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-ab189783a8",
+   "source": "dc-rec-facilities",
+   "name": "Upshur Recreation Center",
+   "kind": "rec_center",
+   "address": "4300 ARKANSAS AVENUE NW",
+   "lat": 38.94332116852255,
+   "lon": -77.03231703204648,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-6842",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-aef200f21e",
+   "source": "dc-rec-facilities",
+   "name": "Happy Hollow Children's Pool",
+   "kind": "pool",
+   "address": "2200 CHAMPLAIN STREET NW",
+   "lat": 38.919175096296904,
+   "lon": -77.04053223899194,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-1289",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b143f7e12e",
+   "source": "dc-rec-facilities",
+   "name": "Jelleff Pool",
+   "kind": "pool",
+   "address": "3265 S STREET NW",
+   "lat": 38.915721093496636,
+   "lon": -77.06682886914876,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 462-1317",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b3d4f2bddb",
+   "source": "dc-rec-facilities",
+   "name": "Harry Thomas Recreation Center",
+   "kind": "rec_center",
+   "address": "1743 LINCOLN ROAD NE",
+   "lat": 38.91399351178317,
+   "lon": -77.0078704376956,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-5642",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b4eca9a493",
+   "source": "dc-rec-facilities",
+   "name": "Guy Mason Community Center",
+   "kind": "rec_center",
+   "address": "3600 CALVERT STREET NW",
+   "lat": 38.92215801845682,
+   "lon": -77.07120047617889,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-7527",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b5080af488",
+   "source": "dc-rec-facilities",
+   "name": "Watkins RC Spray Park",
+   "kind": "spray_park",
+   "address": "420 12TH STREET SE",
+   "lat": 38.88357331077089,
+   "lon": -76.98951548079216,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 724-4468",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b6e6037730",
+   "source": "dc-rec-facilities",
+   "name": "Joseph H. Cole RC Spray Park",
+   "kind": "spray_park",
+   "address": "1299 NEAL STREET NE",
+   "lat": 38.9033314858265,
+   "lon": -76.98826524896288,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 442-9262",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b81f59e519",
+   "source": "dc-rec-facilities",
+   "name": "Petworth Recreation Center",
+   "kind": "rec_center",
+   "address": "801 TAYLOR STREET NW",
+   "lat": 38.941017201805664,
+   "lon": -77.02400577826657,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-6850",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b88cbc129f",
+   "source": "dc-rec-facilities",
+   "name": "Reservoir Park RC Spray Park",
+   "kind": "spray_park",
+   "address": "10 LOWER SERVICE COURT NW",
+   "lat": 38.92319382009672,
+   "lon": -77.01007382418406,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 299-2069",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b8b7d1fa37",
+   "source": "dc-rec-facilities",
+   "name": "Potomac Avenue Triangle Spray Park",
+   "kind": "spray_park",
+   "address": "1250 POTOMAC AVENUE SE",
+   "lat": 38.87913705441401,
+   "lon": -76.9889968815223,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-b8f37be807",
+   "source": "dc-rec-facilities",
+   "name": "Rosedale Recreation Center",
+   "kind": "rec_center",
+   "address": "1701 GALES STREET NE",
+   "lat": 38.89781940244976,
+   "lon": -76.97913631139863,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 727-2591",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-babedcce76",
+   "source": "dc-rec-facilities",
+   "name": "Columbia Heights Community Center",
+   "kind": "rec_center",
+   "address": "1480 GIRARD STREET NW",
+   "lat": 38.92515625296092,
+   "lon": -77.03504961448206,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-0373",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-c3531cf8bd",
+   "source": "dc-rec-facilities",
+   "name": "Canal Park Spray Park",
+   "kind": "spray_park",
+   "address": "200 M STREET SE",
+   "lat": 38.87677659828703,
+   "lon": -77.00324114624837,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-c3cc3114ed",
+   "source": "dc-rec-facilities",
+   "name": "Fort Stanton Recreation Center",
+   "kind": "rec_center",
+   "address": "1812 ERIE STREET SE",
+   "lat": 38.857600203005255,
+   "lon": -76.97873107423068,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-1040",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-c3da7936c2",
+   "source": "dc-rec-facilities",
+   "name": "Arboretum Community Center",
+   "kind": "rec_center",
+   "address": "2412 RAND PLACE NE",
+   "lat": 38.913765570016466,
+   "lon": -76.97127610986085,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-4507",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-c44f8aa452",
+   "source": "dc-rec-facilities",
+   "name": "Fort Davis CC Spray Park",
+   "kind": "spray_park",
+   "address": "1400 41ST STREET SE",
+   "lat": 38.869083266986365,
+   "lon": -76.94550907250225,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-9212",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-c694542399",
+   "source": "dc-rec-facilities",
+   "name": "King-Greenleaf Recreation Center",
+   "kind": "rec_center",
+   "address": "201 N STREET SW",
+   "lat": 38.8750913393888,
+   "lon": -77.01276080719741,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-7454",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-c6c662e42c",
+   "source": "dc-rec-facilities",
+   "name": "Turkey Thicket RC Spray Park",
+   "kind": "spray_park",
+   "address": "1100 MICHIGAN AVENUE NE",
+   "lat": 38.938748309306625,
+   "lon": -76.99249267151136,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-9238",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-c8a95069ce",
+   "source": "dc-rec-facilities",
+   "name": "Takoma Aquatic Center",
+   "kind": "pool",
+   "address": "300 VAN BUREN STREET NW",
+   "lat": 38.968900445758656,
+   "lon": -77.01799869762188,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-9284",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-cb380af832",
+   "source": "dc-rec-facilities",
+   "name": "Langdon Park Pool",
+   "kind": "pool",
+   "address": "2860 MILLS AVENUE NE",
+   "lat": 38.92704824990618,
+   "lon": -76.97356891234175,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-8655",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-cc41e938bb",
+   "source": "dc-rec-facilities",
+   "name": "Stead Recreation Center",
+   "kind": "rec_center",
+   "address": "1625 P STREET NW",
+   "lat": 38.910032453812406,
+   "lon": -77.03762306253387,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-4465",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-d05373dc63",
+   "source": "dc-rec-facilities",
+   "name": "Fort Stevens Recreation Center",
+   "kind": "rec_center",
+   "address": "1327 VAN BUREN STREET NW",
+   "lat": 38.9702719833275,
+   "lon": -77.03116828222619,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 541-3754",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-d473f19b64",
+   "source": "dc-rec-facilities",
+   "name": "Ferebee-Hope Recreation Center",
+   "kind": "rec_center",
+   "address": "700 YUMA STREET SE",
+   "lat": 38.83224573037591,
+   "lon": -76.99685426781593,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202)-788-2279",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-d60103592c",
+   "source": "dc-rec-facilities",
+   "name": "Lafayette-Pointer Recreation Center",
+   "kind": "rec_center",
+   "address": "5900 33RD STREET NW",
+   "lat": 38.967726077344885,
+   "lon": -77.06701415721567,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2206",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-d61c0127ce",
+   "source": "dc-rec-facilities",
+   "name": "North Michigan Park Recreation Center",
+   "kind": "rec_center",
+   "address": "1333 EMERSON STREET NE",
+   "lat": 38.94981587750573,
+   "lon": -76.98645361678467,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 541-3526",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-d62a13e760",
+   "source": "dc-rec-facilities",
+   "name": "Dunbar Aquatic Center",
+   "kind": "pool",
+   "address": "101 N STREET NW",
+   "lat": 38.90763397198417,
+   "lon": -77.01269378725975,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 724-5328",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-d88ef58a44",
+   "source": "dc-rec-facilities",
+   "name": "Turkey Thicket Recreation Center",
+   "kind": "rec_center",
+   "address": "1100 MICHIGAN AVENUE NE",
+   "lat": 38.93811481989686,
+   "lon": -76.99279508832828,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-9238",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-dcc2f9fd13",
+   "source": "dc-rec-facilities",
+   "name": "Woody Ward Pool",
+   "kind": "pool",
+   "address": "5100 SOUTHERN AVENUE SE",
+   "lat": 38.87980998074042,
+   "lon": -76.92691127462524,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-5044",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-de1f51403b",
+   "source": "dc-rec-facilities",
+   "name": "Joy Evans Therapeutic Aquatic Center",
+   "kind": "pool",
+   "address": "3030 G STREET SE",
+   "lat": 38.881136049978394,
+   "lon": -76.96304885541791,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-5708 ",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-e184e3497c",
+   "source": "dc-rec-facilities",
+   "name": "Westminster Playground Spray Park",
+   "kind": "spray_park",
+   "address": "911 WESTMINSTER STREET NW",
+   "lat": 38.915054467009334,
+   "lon": -77.02464764276678,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-e2c1e339d1",
+   "source": "dc-rec-facilities",
+   "name": "Brentwood Recreation Center",
+   "kind": "rec_center",
+   "address": "2311 14TH STREET NE",
+   "lat": 38.92101121123143,
+   "lon": -76.98293852715994,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-6667",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-e341e8f6e3",
+   "source": "dc-rec-facilities",
+   "name": "Joy Evans Therapeutic Recreation Center",
+   "kind": "rec_center",
+   "address": "3030 G STREET SE",
+   "lat": 38.881136049978394,
+   "lon": -76.96304885541791,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 698-1794",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-e5f5d3a2be",
+   "source": "dc-rec-facilities",
+   "name": "Hearst Pool",
+   "kind": "pool",
+   "address": "3701 37TH STREET NW",
+   "lat": 38.94087634183157,
+   "lon": -77.07158484715823,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-1289",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-e7a933fc59",
+   "source": "dc-rec-facilities",
+   "name": "Shepherd Park Community Center",
+   "kind": "rec_center",
+   "address": "7800 14TH STREET NW",
+   "lat": 38.98469003197474,
+   "lon": -77.0339748046068,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 788-2234",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-e8bca1486f",
+   "source": "dc-rec-facilities",
+   "name": "Marvin Gaye Recreation Center",
+   "kind": "rec_center",
+   "address": "15 61ST STREET NE",
+   "lat": 38.89143828596423,
+   "lon": -76.91282260681093,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 899-6004",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-ea3cc34ff8",
+   "source": "dc-rec-facilities",
+   "name": "Friendship Recreation Center",
+   "kind": "rec_center",
+   "address": "4500 VAN NESS STREET NW",
+   "lat": 38.94245124507164,
+   "lon": -77.08808330055656,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2198",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-ea580d5e0c",
+   "source": "dc-rec-facilities",
+   "name": "Francis Pool",
+   "kind": "pool",
+   "address": "2435 N STREET NW",
+   "lat": 38.90732110833705,
+   "lon": -77.0537774525808,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 340-6795",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-ed4a55fbb7",
+   "source": "dc-rec-facilities",
+   "name": "Harrison RC Spray Park",
+   "kind": "spray_park",
+   "address": "1330 V STREET NW",
+   "lat": 38.917849056647555,
+   "lon": -77.03039576861872,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-7760",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-ed9ef4c2cd",
+   "source": "dc-rec-facilities",
+   "name": "Chevy Chase Community Center",
+   "kind": "rec_center",
+   "address": "5601 CONNECTICUT AVENUE NW",
+   "lat": 38.96516793839838,
+   "lon": -77.07511255872487,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2204",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-ef34e05303",
+   "source": "dc-rec-facilities",
+   "name": "Kenilworth Recreation Center",
+   "kind": "rec_center",
+   "address": "4321 ORD STREET NE",
+   "lat": 38.90834522118763,
+   "lon": -76.94095418163602,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 299-5094",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-f004444429",
+   "source": "dc-rec-facilities",
+   "name": "Marie Reed Community Center",
+   "kind": "rec_center",
+   "address": "2200 CHAMPLAIN STREET NW",
+   "lat": 38.919175096296904,
+   "lon": -77.04053223899194,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-7768",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-f4812e70a4",
+   "source": "dc-rec-facilities",
+   "name": "Rose Park Recreation Center",
+   "kind": "rec_center",
+   "address": "2609 DUMBARTON STREET NW",
+   "lat": 38.90799269066572,
+   "lon": -77.05505212889904,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 316-4210",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-f6912e3fb3",
+   "source": "dc-rec-facilities",
+   "name": "Southeast Tennis & Learning Center",
+   "kind": "rec_center",
+   "address": "701 MISSISSIPPI AVENUE SE",
+   "lat": 38.83851877593135,
+   "lon": -76.99454952021456,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 645-6242",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-f88d16d37e",
+   "source": "dc-rec-facilities",
+   "name": "Kelly Miller Pool",
+   "kind": "pool",
+   "address": "4900 BROOKS STREET NE",
+   "lat": 38.89348401313315,
+   "lon": -76.93122591676985,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 724-5056",
+    "status": "Closed"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-f8ff42374c",
+   "source": "dc-rec-facilities",
+   "name": "Kalorama Recreation Center",
+   "kind": "rec_center",
+   "address": "1875 COLUMBIA ROAD NW",
+   "lat": 38.920724847123424,
+   "lon": -77.04436746291749,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 673-7606",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-fc6f708d1b",
+   "source": "dc-rec-facilities",
+   "name": "Friendship Spray Park",
+   "kind": "spray_park",
+   "address": "4500 VAN NESS STREET NW",
+   "lat": 38.94278837245435,
+   "lon": -77.08827301994943,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 282-2198",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-fd662d12d2",
+   "source": "dc-rec-facilities",
+   "name": "Ballou Aquatic Center",
+   "kind": "pool",
+   "address": "3401 4TH STREET SE",
+   "lat": 38.838519435597846,
+   "lon": -77.0013647757232,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 671-1289",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  },
+  {
+   "id": "dcrf-ff62905210",
+   "source": "dc-rec-facilities",
+   "name": "Riggs-LaSalle Community Center",
+   "kind": "rec_center",
+   "address": "501 RIGGS ROAD NE",
+   "lat": 38.96046312593366,
+   "lon": -76.99936235653756,
+   "url": "https://dpr.dc.gov/locations",
+   "attrs": {
+    "phone": "(202) 576-5224",
+    "status": "Open"
+   },
+   "status": "draft",
+   "first_seen": "2026-07-11T22:34:22.615Z",
+   "last_seen": "2026-07-11T22:34:22.615Z"
+  }
+ ]
+}
