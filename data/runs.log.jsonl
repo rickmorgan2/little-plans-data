@@ -1,3 +1,6 @@
 {"ts":"2026-07-11T22:34:22.623Z","skill":"dc-rec-facilities","ok":true,"fetched":147,"added":147,"updated":0,"ms":854}
 {"ts":"2026-07-11T22:34:22.625Z","skill":"nps-events","ok":false,"error":"NPS_API_KEY not set (free key at nps.gov/subjects/developer)","ms":2}
 {"ts":"2026-07-11T22:34:24.400Z","skill":"smithsonian-events","ok":true,"fetched":318,"added":318,"updated":0,"ms":1775}
+{"ts":"2026-07-11T22:41:09.558Z","skill":"dc-rec-facilities","ok":true,"fetched":147,"added":0,"updated":147,"ms":1127}
+{"ts":"2026-07-11T22:41:13.217Z","skill":"nps-events","ok":true,"fetched":37,"added":37,"updated":0,"ms":3659}
+{"ts":"2026-07-11T22:41:14.683Z","skill":"smithsonian-events","ok":true,"fetched":318,"added":0,"updated":318,"ms":1466}
