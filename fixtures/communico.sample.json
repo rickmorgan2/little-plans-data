@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": 16638565,
+      "title": "Baby Lap Time",
+      "description": "A story time for our youngest library users and their caregivers, from birth to 18 months.",
+      "ages": ["Babies (0-18 months)"],
+      "event_start": "2026-07-20 10:30:00",
+      "event_end": "2026-07-20 11:00:00",
+      "location": "Northeast Neighborhood Library"
+    },
+    {
+      "id": 16638566,
+      "title": "Toddler Story Time",
+      "description": "For children aged 18-36 months. Books, songs, rhymes, and movement.",
+      "ages": ["Toddlers"],
+      "event_start": "2026-07-21 10:30:00",
+      "event_end": "2026-07-21 11:15:00",
+      "location": "Southeast Neighborhood Library"
+    },
+    {
+      "id": 16638567,
+      "title": "ESL Conversation Circle",
+      "description": "Designed for non-native speakers of English, ages 18 and older.",
+      "ages": ["Adults"],
+      "event_start": "2026-07-21 18:00:00",
+      "event_end": "2026-07-21 20:00:00",
+      "location": "MLK Jr. Memorial Library"
+    }
+  ]
+}

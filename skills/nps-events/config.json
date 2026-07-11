@@ -1,0 +1,8 @@
+{
+  "park_codes": ["nama", "rocr", "anac", "keaq", "choh", "gwmp"],
+  "api_key_env": "NPS_API_KEY",
+  "page_size": 100,
+  "days_ahead": 45,
+  "family_only": true,
+  "calendar_url": "https://www.nps.gov/planyourvisit/event-search.htm"
+}

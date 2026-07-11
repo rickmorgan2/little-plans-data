@@ -1,0 +1,19 @@
+{
+  "item_id": "7122c1c815314588abe5c1864da8a355",
+  "layer": 3,
+  "id_prefix": "dcrf",
+  "kind": "rec_center",
+  "kind_rules": {
+    "spray": "spray_park",
+    "splash": "spray_park",
+    "pool": "pool",
+    "aquatic": "pool",
+    "playground": "playground"
+  },
+  "name_fields": ["NAME", "FACILITY_NAME", "PARK_NAME"],
+  "type_fields": ["FEATURE_TYPE", "TYPE", "USE_TYPE", "FACILITY_TYPE", "PRIMARY_USE"],
+  "address_fields": ["ADDRESS", "FULLADDRESS", "LOCATION"],
+  "id_fields": ["GIS_ID", "FACILITYID", "OBJECTID"],
+  "attr_fields": ["WARD", "PHONE", "STATUS"],
+  "info_url": "https://dpr.dc.gov/locations"
+}

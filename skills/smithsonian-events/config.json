@@ -1,0 +1,6 @@
+{
+  "feed_url": "https://www.trumba.com/calendars/smithsonian-events.json",
+  "calendar_url": "https://www.si.edu/events",
+  "days_ahead": 45,
+  "family_only": true
+}

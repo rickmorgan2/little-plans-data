@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "NAME": "Rosedale Pool", "FEATURE_TYPE": "Aquatic Facility", "ADDRESS": "1701 Gales St NE", "GIS_ID": "RecFac_001", "WARD": "7" },
+      "geometry": { "type": "Point", "coordinates": [-76.9789, 38.8971] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NAME": "Canal Park Spray Plaza", "FEATURE_TYPE": "Spray Park", "ADDRESS": "200 M St SE", "GIS_ID": "RecFac_002", "WARD": "6" },
+      "geometry": { "type": "Point", "coordinates": [-77.0016, 38.8768] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NAME": "Watkins Recreation Center", "FEATURE_TYPE": "Recreation Center", "ADDRESS": "420 12th St SE", "GIS_ID": "RecFac_003", "WARD": "6", "PHONE": "(202) 555-0100" },
+      "geometry": { "type": "Point", "coordinates": [-76.9905, 38.8829] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NAME": "Lincoln Park Playground", "FEATURE_TYPE": "Playground", "ADDRESS": "E Capitol St SE", "GIS_ID": "RecFac_004", "WARD": "6" },
+      "geometry": { "type": "Point", "coordinates": [-76.9893, 38.8896] }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "little-plans-data",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Data collection and curation pipeline for Little Plans. Zero runtime dependencies.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "collect": "node scripts/run.js --cadence all",
+    "collect:daily": "node scripts/run.js --cadence daily",
+    "collect:weekly": "node scripts/run.js --cadence weekly",
+    "test": "node --test tests/*.test.js"
+  }
+}

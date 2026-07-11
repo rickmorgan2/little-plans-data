@@ -1,0 +1,11 @@
+{
+  "geojson_url": null,
+  "id_prefix": "dcfm",
+  "kind": "farmers_market",
+  "name_fields": ["NAME", "MARKET_NAME", "MARKETNAME"],
+  "type_fields": ["TYPE"],
+  "address_fields": ["ADDRESS", "FULLADDRESS", "LOCATION"],
+  "id_fields": ["GIS_ID", "OBJECTID"],
+  "attr_fields": ["WARD", "OPEN_SEASON", "DAYS", "HOURS", "SNAP", "WIC"],
+  "info_url": "https://opendata.dc.gov"
+}

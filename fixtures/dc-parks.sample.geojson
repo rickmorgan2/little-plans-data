@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "NAME": "Lincoln Park", "USE_TYPE": "Park", "ADDRESS": "E Capitol St SE", "GIS_ID": "Park_001", "WARD": "6", "ACREAGE": 6.9 },
+      "geometry": { "type": "Polygon", "coordinates": [[[-76.9922, 38.8891], [-76.9862, 38.8891], [-76.9862, 38.8902], [-76.9922, 38.8902], [-76.9922, 38.8891]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NAME": "Garfield Park Playground", "USE_TYPE": "Playground", "ADDRESS": "2nd St SE", "GIS_ID": "Park_002", "WARD": "6" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-77.0032, 38.8817], [-77.0022, 38.8817], [-77.0022, 38.8823], [-77.0032, 38.8823], [-77.0032, 38.8817]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "USE_TYPE": "Triangle", "GIS_ID": "Park_003" },
+      "geometry": { "type": "Point", "coordinates": [-77.0, 38.88] }
+    }
+  ]
+}

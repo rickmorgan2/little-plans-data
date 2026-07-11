@@ -1,0 +1,15 @@
+# CI: every push and PR runs the unit tests and the full pipeline against
+# local fixtures. No network, no secrets, so it can never fail on a flaky API.
+name: CI
+on:
+  push:
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm test

@@ -1,0 +1,71 @@
+# CD: scheduled collection. Two crons map to the two skill cadences; results
+# are validated, merged (review decisions preserved), committed back to the
+# repo, and optionally mirrored to Supabase when its secrets are set.
+name: Collect
+on:
+  schedule: 
+    # HOW ARE THESE DIFFERENTIATED BELOW
+    - cron: '17 10 * * *'   # daily ~6:17am ET: happenings (SI, DCPL, NPS) 
+    - cron: '23 11 * * 1'   # Monday ~7:23am ET: places (DC open data)
+  workflow_dispatch:
+    inputs:
+      skill:
+        description: Run a single skill by name (optional)
+        required: false
+        type: string
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Resolve cadence from trigger
+        id: cadence
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "value=all" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "23 11 * * 1" ]; then
+            echo "value=weekly" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=daily" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Collect
+        run: |
+          EXTRA=""
+          if [ -n "${{ inputs.skill }}" ]; then EXTRA="--skill ${{ inputs.skill }}"; fi
+          node scripts/run.js --cadence ${{ steps.cadence.outputs.value }} $EXTRA
+
+      - name: Mirror to Supabase (no-op unless secrets are set)
+        run: node supabase/sync.js
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "little-plans-bot"
+          git config user.email "bot@littleplans.co"
+          git add data/
+          git diff --cached --quiet && echo "No data changes." && exit 0
+          git commit -m "data: ${{ steps.cadence.outputs.value }} collect $(date -u +%F)"
+          git push
+
+      # When littleplans.co is live, publish the feed alongside the app.
+      # Uncomment and add SSH secrets (see README "Publishing the feed").
+      # - name: Deploy feed to littleplans.co
+      #   run: |
+      #     echo "${{ secrets.DEPLOY_SSH_KEY }}" > /tmp/key && chmod 600 /tmp/key
+      #     scp -i /tmp/key -o StrictHostKeyChecking=accept-new \
+      #       data/feed/*.json deploy@littleplans.co:/srv/littleplans/data/

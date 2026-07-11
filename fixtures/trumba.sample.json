@@ -1,0 +1,41 @@
+[
+  {
+    "eventID": 100001,
+    "title": "Family Storytime at the Castle",
+    "description": "<p>Stories and songs for families. Recommended for ages 2-5 with a grownup.</p>",
+    "location": "Smithsonian Castle",
+    "startDateTime": "2026-07-20T10:30:00",
+    "endDateTime": "2026-07-20T11:00:00",
+    "permaLinkUrl": "https://www.trumba.com/example/100001",
+    "customFields": [
+      { "fieldID": 1, "label": "Audience", "value": "Families, Kids" },
+      { "fieldID": 2, "label": "Cost", "value": "Free" }
+    ]
+  },
+  {
+    "eventID": 100002,
+    "title": "Toddler Music Morning",
+    "description": "<p>Sing-along and instrument play for toddlers 18-36 months.</p>",
+    "location": "National Museum of American History",
+    "startDateTime": "2026-07-21T09:30:00",
+    "endDateTime": "2026-07-21T10:15:00",
+    "permaLinkUrl": "https://www.trumba.com/example/100002",
+    "customFields": [
+      { "fieldID": 1, "label": "Audience", "value": "Toddlers and caregivers" },
+      { "fieldID": 2, "label": "Cost", "value": "Free" }
+    ]
+  },
+  {
+    "eventID": 100003,
+    "title": "Wine and Design Evening 21+",
+    "description": "<p>An evening lecture and tasting for adults only.</p>",
+    "location": "Hirshhorn Museum",
+    "startDateTime": "2026-07-22T18:30:00",
+    "endDateTime": "2026-07-22T20:30:00",
+    "permaLinkUrl": "https://www.trumba.com/example/100003",
+    "customFields": [
+      { "fieldID": 1, "label": "Audience", "value": "Adults" },
+      { "fieldID": 2, "label": "Cost", "value": "$45" }
+    ]
+  }
+]

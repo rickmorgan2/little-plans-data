@@ -1,0 +1,6 @@
+{
+  "endpoint": null,
+  "calendar_url": "https://dclibrary.libnet.info/events",
+  "event_base_url": "https://dclibrary.libnet.info/event/",
+  "days_ahead": 30
+}

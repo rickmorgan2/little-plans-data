@@ -1,0 +1,29 @@
+{
+  "total": "2",
+  "data": [
+    {
+      "id": "AA0-1111",
+      "title": "Ranger Story Time at the Nature Center",
+      "description": "<p>Nature stories and puppets for little ones and their families.</p>",
+      "parkfullname": "Rock Creek Park",
+      "category": "Children's Program",
+      "tags": ["kids", "story time"],
+      "isfree": "true",
+      "infourl": "https://www.nps.gov/rocr/example",
+      "dates": ["2026-07-20", "2026-07-27"],
+      "times": [{ "timestart": "10:00 AM", "timeend": "10:30 AM" }]
+    },
+    {
+      "id": "BB0-2222",
+      "title": "Civil War History Lecture",
+      "description": "<p>An in-depth evening lecture for adults.</p>",
+      "parkfullname": "National Mall and Memorial Parks",
+      "category": "Talk",
+      "tags": ["history"],
+      "isfree": "true",
+      "infourl": "https://www.nps.gov/nama/example",
+      "dates": ["2026-07-22"],
+      "times": [{ "timestart": "6:00 PM", "timeend": "7:30 PM" }]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "geojson_url": null,
+  "id_prefix": "dcpk",
+  "kind": "park",
+  "kind_rules": {
+    "playground": "playground",
+    "spray": "spray_park",
+    "pool": "pool",
+    "garden": "garden",
+    "trail": "trail"
+  },
+  "name_fields": ["NAME", "PARK_NAME", "FACILITY_NAME"],
+  "type_fields": ["FEATURE_TYPE", "TYPE", "USE_TYPE", "PARK_TYPE"],
+  "address_fields": ["ADDRESS", "FULLADDRESS", "LOCATION"],
+  "id_fields": ["GIS_ID", "OBJECTID"],
+  "attr_fields": ["WARD", "ACREAGE", "AMENITIES", "WOODED_AREA"],
+  "info_url": "https://dpr.dc.gov/locations"
+}

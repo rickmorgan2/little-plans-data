@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "NAME": "Eastern Market Farmers Line", "ADDRESS": "225 7th St SE", "GIS_ID": "FM_001", "WARD": "6", "DAYS": "Sat-Sun", "OPEN_SEASON": "Year-round" },
+      "geometry": { "type": "Point", "coordinates": [-76.9964, 38.8865] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NAME": "H Street NE Freshfarm Market", "ADDRESS": "800 13th St NE", "GIS_ID": "FM_002", "WARD": "6", "DAYS": "Sat", "OPEN_SEASON": "Apr-Dec" },
+      "geometry": { "type": "Point", "coordinates": [-76.9871, 38.9007] }
+    }
+  ]
+}
