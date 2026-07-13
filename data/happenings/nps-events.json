@@ -1,71 +1,5 @@
 [
  {
-  "id": "nps-5351ba32f1",
-  "source": "nps-events",
-  "title": "Lockhouse 44 - Williamsport",
-  "desc": "Seven days a week, 24 hours a day, in all weather, lockkeepers attended to canal traffic. Lockkeepers were responsible for opening and closing the 74 lift locks along the canal. A lift lock works like a water elevator, raising or lowering a boat 8 to 10 feet. The lockkeeper was given a salary, a lockhouse, and an acre of land for livestock and a garden. Lockhouse 44 is one of little more than a do",
-  "start": "2026-07-11T10:00:00-04:00",
-  "end": "2026-07-11T14:00:00-04:00",
-  "venue": {
-   "name": "Chesapeake & Ohio Canal National Historical Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/choh/learn/historyculture/williamsport-canal-walking-tour.htm",
-  "status": "draft",
-  "fetched_at": "2026-07-11T22:41:13.208Z"
- },
- {
-  "id": "nps-83c0c60da0",
-  "source": "nps-events",
-  "title": "Ranger Tours at Peirce Mill",
-  "desc": "Step inside Peirce Mill, a rare surviving 19th-century gristmill in Rock Creek Park, and discover how waterpower once supported daily life in Washington, DC. Built in the 1820s, the mill served local farmers by grinding grain into flour and cornmeal. On this guided tour, you’ll explore the mill’s machinery, including the waterwheel, gears, and millstones that brought the process to life. Learn how",
-  "start": "2026-07-11T10:00:00-04:00",
-  "end": "2026-07-11T10:45:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-07-11T22:41:13.212Z"
- },
- {
-  "id": "nps-0e1e613a05",
-  "source": "nps-events",
-  "title": "Guided Tours of Rileys Lockhouse",
-  "desc": "Explore the life of a lockkeeper and family in the 1870's time period with a guided tour of one of the C&O Canal's original lockhouses. Girl Scouts offer free tours of the lockhouse and grounds at Lock 24. In addition, there may be various Victorian Era demonstrations such as laundry, cider pressing, making lemonade, churning butter or ice cream and more. Visitors are welcome to participate in the",
-  "start": "2026-07-11T13:00:00-04:00",
-  "end": "2026-07-11T16:00:00-04:00",
-  "venue": {
-   "name": "Chesapeake & Ohio Canal National Historical Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-07-11T22:41:13.205Z"
- },
- {
   "id": "nps-ccdfea386d",
   "source": "nps-events",
   "title": "Ranger Tours at Peirce Mill",
@@ -151,7 +85,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.375Z"
+  "fetched_at": "2026-07-13T12:43:02.757Z"
  },
  {
   "id": "nps-4a52803bd0",
@@ -173,7 +107,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.382Z"
+  "fetched_at": "2026-07-13T12:43:02.765Z"
  },
  {
   "id": "nps-609c24990d",
@@ -195,7 +129,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.380Z"
+  "fetched_at": "2026-07-13T12:43:02.763Z"
  },
  {
   "id": "nps-ab0613eb87",
@@ -217,7 +151,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.376Z"
+  "fetched_at": "2026-07-13T12:43:02.758Z"
  },
  {
   "id": "nps-3e6774e1f7",
@@ -239,7 +173,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.378Z"
+  "fetched_at": "2026-07-13T12:43:02.760Z"
  },
  {
   "id": "nps-bbaa72c064",
@@ -261,7 +195,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.382Z"
+  "fetched_at": "2026-07-13T12:43:02.765Z"
  },
  {
   "id": "nps-0776d0bae6",
@@ -283,7 +217,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.382Z"
+  "fetched_at": "2026-07-13T12:43:02.765Z"
  },
  {
   "id": "nps-753682fd5f",
@@ -305,7 +239,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.376Z"
+  "fetched_at": "2026-07-13T12:43:02.758Z"
  },
  {
   "id": "nps-6773564c4f",
@@ -327,7 +261,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.378Z"
+  "fetched_at": "2026-07-13T12:43:02.760Z"
  },
  {
   "id": "nps-2b248ff5ae",
@@ -349,7 +283,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.379Z"
+  "fetched_at": "2026-07-13T12:43:02.762Z"
  },
  {
   "id": "nps-e7db2f9e96",
@@ -371,7 +305,7 @@
   "weather": "any",
   "url": "https://www.friendsofpeircemill.org/event/water-power-day-26/",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.383Z"
+  "fetched_at": "2026-07-13T12:43:02.766Z"
  },
  {
   "id": "nps-1d734c9299",
@@ -393,7 +327,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.381Z"
+  "fetched_at": "2026-07-13T12:43:02.764Z"
  },
  {
   "id": "nps-9cbda756dd",
@@ -415,7 +349,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.379Z"
+  "fetched_at": "2026-07-13T12:43:02.762Z"
  },
  {
   "id": "nps-a886abfecc",
@@ -437,7 +371,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.381Z"
+  "fetched_at": "2026-07-13T12:43:02.764Z"
  },
  {
   "id": "nps-c64b7b109b",
@@ -459,7 +393,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.375Z"
+  "fetched_at": "2026-07-13T12:43:02.757Z"
  },
  {
   "id": "nps-ea39d1fc67",
@@ -481,7 +415,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.380Z"
+  "fetched_at": "2026-07-13T12:43:02.763Z"
  },
  {
   "id": "nps-71851ee980",
@@ -503,7 +437,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.377Z"
+  "fetched_at": "2026-07-13T12:43:02.759Z"
  },
  {
   "id": "nps-b7e61efd43",
@@ -525,7 +459,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.378Z"
+  "fetched_at": "2026-07-13T12:43:02.760Z"
  },
  {
   "id": "nps-e5ab676e0a",
@@ -547,7 +481,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.377Z"
+  "fetched_at": "2026-07-13T12:43:02.759Z"
  },
  {
   "id": "nps-9f4feeac73",
@@ -569,7 +503,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.378Z"
+  "fetched_at": "2026-07-13T12:43:02.761Z"
  },
  {
   "id": "nps-d3d0c7cc62",
@@ -591,7 +525,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.380Z"
+  "fetched_at": "2026-07-13T12:43:02.762Z"
  },
  {
   "id": "nps-460c2ef490",
@@ -613,7 +547,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.381Z"
+  "fetched_at": "2026-07-13T12:43:02.764Z"
  },
  {
   "id": "nps-902471cfa8",
@@ -635,7 +569,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.380Z"
+  "fetched_at": "2026-07-13T12:43:02.762Z"
  },
  {
   "id": "nps-02c37e0935",
@@ -657,7 +591,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.381Z"
+  "fetched_at": "2026-07-13T12:43:02.764Z"
  },
  {
   "id": "nps-ed1bee70c4",
@@ -679,7 +613,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.376Z"
+  "fetched_at": "2026-07-13T12:43:02.757Z"
  },
  {
   "id": "nps-857ca864e6",
@@ -701,7 +635,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.377Z"
+  "fetched_at": "2026-07-13T12:43:02.759Z"
  },
  {
   "id": "nps-9f51bc1c0e",
@@ -723,7 +657,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.379Z"
+  "fetched_at": "2026-07-13T12:43:02.761Z"
  },
  {
   "id": "nps-592013afb1",
@@ -745,7 +679,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.377Z"
+  "fetched_at": "2026-07-13T12:43:02.759Z"
  },
  {
   "id": "nps-4830b85add",
@@ -767,7 +701,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.379Z"
+  "fetched_at": "2026-07-13T12:43:02.761Z"
  },
  {
   "id": "nps-8e357b598d",
@@ -789,7 +723,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.374Z"
+  "fetched_at": "2026-07-13T12:43:02.755Z"
  },
  {
   "id": "nps-d85bf3b80c",
@@ -811,6 +745,6 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-07-12T11:33:37.376Z"
+  "fetched_at": "2026-07-13T12:43:02.757Z"
  }
 ]
