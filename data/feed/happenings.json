@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-18T11:25:38.484Z",
- "count": 312,
+ "generated": "2026-07-19T11:33:03.246Z",
+ "count": 308,
  "happenings": [
   {
    "id": "sie-de2a4767d3",
@@ -23,28 +23,6 @@
    "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D204485228",
    "status": "draft",
    "fetched_at": "2026-07-18T11:25:38.314Z"
-  },
-  {
-   "id": "nps-bbaa72c064",
-   "source": "nps-events",
-   "title": "Books and Beyond with a Ranger at Peirce Barn",
-   "desc": "If you have a little one to take care of and are looking for something fun to do, come read and sing all about nature with a park ranger! This program includes nature books, animal puppets, body movements, and songs. To accommodate more people and to add variety, the children’s programs will alternate between the Nature Center and Peirce Mill Barn every 2 weeks. Families with children ages 5 and u",
-   "start": "2026-07-17T10:00:00-04:00",
-   "end": "2026-07-17T10:45:00-04:00",
-   "venue": {
-    "name": "Rock Creek Park",
-    "address": null,
-    "lat": null,
-    "lon": null
-   },
-   "age_min_m": 0,
-   "age_max_m": 60,
-   "cost": "free",
-   "setting": "out",
-   "weather": "any",
-   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-   "status": "draft",
-   "fetched_at": "2026-07-17T11:43:00.137Z"
   },
   {
    "id": "sie-d26e54ab05",
@@ -133,28 +111,6 @@
    "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D204119339",
    "status": "draft",
    "fetched_at": "2026-07-17T11:43:16.023Z"
-  },
-  {
-   "id": "nps-0776d0bae6",
-   "source": "nps-events",
-   "title": "Fun with Flora and Fauna",
-   "desc": "Spend Friday mornings and afternoons at Rock Creek Park learning about our wild and wonderful urban oasis ! Park Rangers will teach kids (and visitors of all ages) about the fantastic flora and fauna in the park.",
-   "start": "2026-07-17T11:00:00-04:00",
-   "end": "2026-07-17T11:30:00-04:00",
-   "venue": {
-    "name": "Rock Creek Park",
-    "address": null,
-    "lat": null,
-    "lon": null
-   },
-   "age_min_m": 0,
-   "age_max_m": null,
-   "cost": "free",
-   "setting": "out",
-   "weather": "any",
-   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-   "status": "draft",
-   "fetched_at": "2026-07-17T11:43:00.138Z"
   },
   {
    "id": "sie-96d8226dc8",
@@ -265,50 +221,6 @@
    "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D205161969",
    "status": "draft",
    "fetched_at": "2026-07-17T11:43:16.027Z"
-  },
-  {
-   "id": "nps-753682fd5f",
-   "source": "nps-events",
-   "title": "CANCELED Ranger Tours at the Old Stone House",
-   "desc": "*These tours have been canceled for July 16-17, 2026* Step back in time with a ranger-led tour of the Old Stone House, the oldest building in the nation’s capital. Discover what life was like in the 18th century as you explore its simple rooms, learn about early residents, and uncover the stories hidden within its stone walls. Perfect for visitors of all ages, this short tour offers a glimpse into",
-   "start": "2026-07-17T12:30:00-04:00",
-   "end": "2026-07-17T13:00:00-04:00",
-   "venue": {
-    "name": "Rock Creek Park",
-    "address": null,
-    "lat": null,
-    "lon": null
-   },
-   "age_min_m": 0,
-   "age_max_m": null,
-   "cost": "free",
-   "setting": "out",
-   "weather": "any",
-   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-   "status": "draft",
-   "fetched_at": "2026-07-17T11:43:00.131Z"
-  },
-  {
-   "id": "nps-6773564c4f",
-   "source": "nps-events",
-   "title": "Ranger Tours at the Old Stone House",
-   "desc": "Step back in time with a ranger-led tour of the Old Stone House, the oldest building in the nation’s capital. Discover what life was like in the 18th century as you explore its simple rooms, learn about early residents, and uncover the stories hidden within its stone walls. Perfect for visitors of all ages, this short tour offers a glimpse into everyday colonial life right in the heart of the city",
-   "start": "2026-07-17T12:30:00-04:00",
-   "end": "2026-07-17T13:00:00-04:00",
-   "venue": {
-    "name": "Rock Creek Park",
-    "address": null,
-    "lat": null,
-    "lon": null
-   },
-   "age_min_m": 0,
-   "age_max_m": null,
-   "cost": "free",
-   "setting": "out",
-   "weather": "any",
-   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-   "status": "draft",
-   "fetched_at": "2026-07-17T11:43:00.133Z"
   },
   {
    "id": "sie-367ab67a1f",
@@ -770,7 +682,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.887Z"
+   "fetched_at": "2026-07-19T11:33:03.010Z"
   },
   {
    "id": "nps-6fca0f648c",
@@ -792,7 +704,7 @@
    "weather": "any",
    "url": "https://www.friendsofpeircemill.org/event/water-power-day-26/",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.890Z"
+   "fetched_at": "2026-07-19T11:33:03.013Z"
   },
   {
    "id": "sie-ca72358c5f",
@@ -858,7 +770,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.889Z"
+   "fetched_at": "2026-07-19T11:33:03.012Z"
   },
   {
    "id": "sie-69742c855e",
@@ -1408,7 +1320,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.883Z"
+   "fetched_at": "2026-07-19T11:33:03.006Z"
   },
   {
    "id": "sie-f395e3f453",
@@ -1496,7 +1408,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.888Z"
+   "fetched_at": "2026-07-19T11:33:03.011Z"
   },
   {
    "id": "sie-d94f1d0e3f",
@@ -1584,7 +1496,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.884Z"
+   "fetched_at": "2026-07-19T11:33:03.008Z"
   },
   {
    "id": "nps-b7e61efd43",
@@ -1606,7 +1518,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.885Z"
+   "fetched_at": "2026-07-19T11:33:03.009Z"
   },
   {
    "id": "sie-68a324f610",
@@ -1716,7 +1628,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.891Z"
+   "fetched_at": "2026-07-19T11:33:03.014Z"
   },
   {
    "id": "nps-f5368e76b8",
@@ -1738,7 +1650,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.891Z"
+   "fetched_at": "2026-07-19T11:33:03.014Z"
   },
   {
    "id": "sie-dbc12d8ddc",
@@ -1870,7 +1782,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.891Z"
+   "fetched_at": "2026-07-19T11:33:03.013Z"
   },
   {
    "id": "sie-c979e41de5",
@@ -1936,7 +1848,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.884Z"
+   "fetched_at": "2026-07-19T11:33:03.008Z"
   },
   {
    "id": "nps-9f4feeac73",
@@ -1958,7 +1870,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.885Z"
+   "fetched_at": "2026-07-19T11:33:03.009Z"
   },
   {
    "id": "sie-6304d4b515",
@@ -2046,7 +1958,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.887Z"
+   "fetched_at": "2026-07-19T11:33:03.010Z"
   },
   {
    "id": "sie-2211a9f48c",
@@ -2178,7 +2090,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.889Z"
+   "fetched_at": "2026-07-19T11:33:03.012Z"
   },
   {
    "id": "sie-904cdc1b63",
@@ -2354,7 +2266,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.887Z"
+   "fetched_at": "2026-07-19T11:33:03.011Z"
   },
   {
    "id": "sie-eb752b7693",
@@ -2420,7 +2332,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.889Z"
+   "fetched_at": "2026-07-19T11:33:03.012Z"
   },
   {
    "id": "sie-ab58a3ed41",
@@ -2904,7 +2816,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.883Z"
+   "fetched_at": "2026-07-19T11:33:03.007Z"
   },
   {
    "id": "sie-60dd136a2d",
@@ -3036,7 +2948,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.885Z"
+   "fetched_at": "2026-07-19T11:33:03.008Z"
   },
   {
    "id": "nps-9f51bc1c0e",
@@ -3058,7 +2970,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.886Z"
+   "fetched_at": "2026-07-19T11:33:03.009Z"
   },
   {
    "id": "sie-27c397de39",
@@ -3212,7 +3124,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.885Z"
+   "fetched_at": "2026-07-19T11:33:03.008Z"
   },
   {
    "id": "nps-4830b85add",
@@ -3234,7 +3146,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.886Z"
+   "fetched_at": "2026-07-19T11:33:03.010Z"
   },
   {
    "id": "sie-110bb0c39c",
@@ -3498,7 +3410,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.882Z"
+   "fetched_at": "2026-07-19T11:33:03.005Z"
   },
   {
    "id": "sie-18fa6a8a6e",
@@ -3916,7 +3828,7 @@
    "weather": "any",
    "url": "https://www.nps.gov/planyourvisit/event-search.htm",
    "status": "draft",
-   "fetched_at": "2026-07-18T11:25:21.883Z"
+   "fetched_at": "2026-07-19T11:33:03.007Z"
   },
   {
    "id": "sie-e7437be937",
