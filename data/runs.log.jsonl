@@ -23,3 +23,4 @@
 {"ts":"2026-07-19T11:33:03.244Z","skill":"smithsonian-events","ok":false,"error":"fetch failed","ms":227}
 {"ts":"2026-07-20T12:27:01.378Z","skill":"nps-events","ok":true,"fetched":21,"added":1,"updated":20,"ms":1654}
 {"ts":"2026-07-20T12:27:03.145Z","skill":"smithsonian-events","ok":true,"fetched":261,"added":8,"updated":253,"ms":1767}
+{"ts":"2026-07-20T13:18:33.237Z","skill":"dc-rec-facilities","ok":true,"fetched":147,"added":0,"updated":147,"ms":796}
