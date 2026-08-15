@@ -1,71 +1,5 @@
 [
  {
-  "id": "nps-e46ee3dc6a",
-  "source": "nps-events",
-  "title": "Introduction to Hiking: Woodland Trail Loop with a Ranger",
-  "desc": "During this ½ mile excursion, young explorers learn the hiking essentials, such as trail safety, what to wear or bring to a hike, and how to Recreate Responsibly all while looking at and respecting nature found in our woodlands. This ranger-led hike is intended to create treasured trail experiences for families interested in planning more advance hikes as their children become more experienced. Ad",
-  "start": "2026-08-13T09:00:00-04:00",
-  "end": "2026-08-13T10:00:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-08-13T11:12:16.712Z"
- },
- {
-  "id": "nps-a0ef6270a3",
-  "source": "nps-events",
-  "title": "The Unfinished America: A 250-Year Journey of Liberty and Economic Freedom",
-  "desc": "Meet at the World War II Kiosk and join a National Park Service volunteer for an immersive 90-minute walking tour exploring the evolution of individual liberty and economic freedom while visiting several National Mall monuments and memorials. From the towering legacy of George Washington to the revolutionary courage of the 56 Signers of the Declaration of Independence, we will trace America’s fitf",
-  "start": "2026-08-13T09:30:00-04:00",
-  "end": "2026-08-13T10:30:00-04:00",
-  "venue": {
-   "name": "National Mall and Memorial Parks ",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-08-13T11:12:16.703Z"
- },
- {
-  "id": "nps-b3c63d1aee",
-  "source": "nps-events",
-  "title": "Ranger Tours at the Old Stone House",
-  "desc": "Step back in time with a ranger-led tour of the Old Stone House, the oldest building in the nation’s capital. Discover what life was like in the 18th century as you explore its simple rooms, learn about early residents, and uncover the stories hidden within its stone walls. Perfect for visitors of all ages, this short tour offers a glimpse into everyday colonial life right in the heart of the city",
-  "start": "2026-08-13T12:30:00-04:00",
-  "end": "2026-08-13T13:00:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": 0,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-08-13T11:12:16.708Z"
- },
- {
   "id": "nps-1c32e155ca",
   "source": "nps-events",
   "title": "Hidden History of the Georgetown Waterfront",
@@ -151,7 +85,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.404Z"
+  "fetched_at": "2026-08-15T10:41:56.480Z"
  },
  {
   "id": "nps-ae206cb9ac",
@@ -173,7 +107,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.407Z"
+  "fetched_at": "2026-08-15T10:41:56.483Z"
  },
  {
   "id": "nps-0c25180e2d",
@@ -195,7 +129,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.404Z"
+  "fetched_at": "2026-08-15T10:41:56.480Z"
  },
  {
   "id": "nps-99413be6de",
@@ -217,7 +151,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.407Z"
+  "fetched_at": "2026-08-15T10:41:56.484Z"
  },
  {
   "id": "nps-2aa2496835",
@@ -239,7 +173,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.410Z"
+  "fetched_at": "2026-08-15T10:41:56.485Z"
  },
  {
   "id": "nps-731a9b378c",
@@ -261,7 +195,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.417Z"
+  "fetched_at": "2026-08-15T10:41:56.492Z"
  },
  {
   "id": "nps-76de079a9c",
@@ -283,7 +217,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.401Z"
+  "fetched_at": "2026-08-15T10:41:56.477Z"
  },
  {
   "id": "nps-9fa9bea76d",
@@ -305,7 +239,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.406Z"
+  "fetched_at": "2026-08-15T10:41:56.482Z"
  },
  {
   "id": "nps-4eb63b7467",
@@ -327,7 +261,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.417Z"
+  "fetched_at": "2026-08-15T10:41:56.492Z"
  },
  {
   "id": "nps-08bcb088ea",
@@ -349,7 +283,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.406Z"
+  "fetched_at": "2026-08-15T10:41:56.482Z"
  },
  {
   "id": "nps-34032bcbd7",
@@ -371,7 +305,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.404Z"
+  "fetched_at": "2026-08-15T10:41:56.480Z"
  },
  {
   "id": "nps-fa99b3ad62",
@@ -393,7 +327,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.408Z"
+  "fetched_at": "2026-08-15T10:41:56.484Z"
  },
  {
   "id": "nps-1876467fb8",
@@ -415,7 +349,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.410Z"
+  "fetched_at": "2026-08-15T10:41:56.486Z"
  },
  {
   "id": "nps-00727bc381",
@@ -437,7 +371,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.404Z"
+  "fetched_at": "2026-08-15T10:41:56.481Z"
  },
  {
   "id": "nps-d01dc0e904",
@@ -459,7 +393,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.408Z"
+  "fetched_at": "2026-08-15T10:41:56.484Z"
  },
  {
   "id": "nps-95f4e9f3ff",
@@ -481,7 +415,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.411Z"
+  "fetched_at": "2026-08-15T10:41:56.486Z"
  },
  {
   "id": "nps-92ec9aa68d",
@@ -503,7 +437,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.401Z"
+  "fetched_at": "2026-08-15T10:41:56.477Z"
  },
  {
   "id": "nps-d301a7930b",
@@ -525,7 +459,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.406Z"
+  "fetched_at": "2026-08-15T10:41:56.483Z"
  },
  {
   "id": "nps-79015580dc",
@@ -547,7 +481,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.407Z"
+  "fetched_at": "2026-08-15T10:41:56.483Z"
  },
  {
   "id": "nps-ed7560fb77",
@@ -569,7 +503,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.405Z"
+  "fetched_at": "2026-08-15T10:41:56.481Z"
  },
  {
   "id": "nps-b8dde6ef41",
@@ -591,7 +525,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.408Z"
+  "fetched_at": "2026-08-15T10:41:56.484Z"
  },
  {
   "id": "nps-8aad5a0cd4",
@@ -613,7 +547,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.411Z"
+  "fetched_at": "2026-08-15T10:41:56.486Z"
  },
  {
   "id": "nps-286aedad95",
@@ -635,7 +569,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.405Z"
+  "fetched_at": "2026-08-15T10:41:56.481Z"
  },
  {
   "id": "nps-593d1e1c1b",
@@ -657,7 +591,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.408Z"
+  "fetched_at": "2026-08-15T10:41:56.485Z"
  },
  {
   "id": "nps-427588bbea",
@@ -679,7 +613,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.411Z"
+  "fetched_at": "2026-08-15T10:41:56.486Z"
  },
  {
   "id": "nps-af64712adb",
@@ -701,7 +635,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.402Z"
+  "fetched_at": "2026-08-15T10:41:56.478Z"
  },
  {
   "id": "nps-df08250071",
@@ -723,7 +657,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.411Z"
+  "fetched_at": "2026-08-15T10:41:56.487Z"
  },
  {
   "id": "nps-22e1709306",
@@ -745,7 +679,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.400Z"
+  "fetched_at": "2026-08-15T10:41:56.476Z"
  },
  {
   "id": "nps-3e0f85d913",
@@ -767,7 +701,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.412Z"
+  "fetched_at": "2026-08-15T10:41:56.487Z"
  },
  {
   "id": "nps-9ba74b7f28",
@@ -789,7 +723,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.402Z"
+  "fetched_at": "2026-08-15T10:41:56.478Z"
  },
  {
   "id": "nps-696703a853",
@@ -811,7 +745,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.412Z"
+  "fetched_at": "2026-08-15T10:41:56.487Z"
  },
  {
   "id": "nps-e841aa347a",
@@ -833,7 +767,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.412Z"
+  "fetched_at": "2026-08-15T10:41:56.488Z"
  },
  {
   "id": "nps-2d8b6ebcd8",
@@ -855,7 +789,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.402Z"
+  "fetched_at": "2026-08-15T10:41:56.478Z"
  },
  {
   "id": "nps-e79557b9fb",
@@ -877,7 +811,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.412Z"
+  "fetched_at": "2026-08-15T10:41:56.488Z"
  },
  {
   "id": "nps-67eb638f89",
@@ -899,7 +833,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.413Z"
+  "fetched_at": "2026-08-15T10:41:56.488Z"
  },
  {
   "id": "nps-96f5c71693",
@@ -921,7 +855,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.402Z"
+  "fetched_at": "2026-08-15T10:41:56.479Z"
  },
  {
   "id": "nps-7e93c8e750",
@@ -943,7 +877,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.413Z"
+  "fetched_at": "2026-08-15T10:41:56.488Z"
  },
  {
   "id": "nps-ac5a4b7a10",
@@ -965,6 +899,6 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.413Z"
+  "fetched_at": "2026-08-15T10:41:56.489Z"
  }
 ]
