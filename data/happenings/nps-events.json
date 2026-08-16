@@ -1,71 +1,5 @@
 [
  {
-  "id": "nps-1c32e155ca",
-  "source": "nps-events",
-  "title": "Hidden History of the Georgetown Waterfront",
-  "desc": "Join us for a ranger-led program that dives deep into the fascinating story of the Georgetown Waterfront . Explore how this vibrant area has transformed over the centuries, shaping the heart of the city as we know it today. Bring your curiosity and get ready to experience history with views of the Potomac as your backdrop. This is a perfect event for history buffs, families, and anyone looking to ",
-  "start": "2026-08-14T10:00:00-04:00",
-  "end": "2026-08-14T11:00:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.409Z"
- },
- {
-  "id": "nps-02c8e1163e",
-  "source": "nps-events",
-  "title": "Little Tyke Hike at Peirce Barn",
-  "desc": "Bring your little ones to learn about the forest and how to explore nature! This program includes books, animal puppets, magnifying glasses, and a very short hike. During the walk, children are encouraged to search for shapes and colors and use their senses to explore the forest. Recommended for families with children 6 and under. Due to high summer temperatures, we will only be doing this program",
-  "start": "2026-08-14T10:00:00-04:00",
-  "end": "2026-08-14T10:45:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": 0,
-  "age_max_m": 72,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.409Z"
- },
- {
-  "id": "nps-4df16e1ead",
-  "source": "nps-events",
-  "title": "Ranger Tours at the Old Stone House",
-  "desc": "Step back in time with a ranger-led tour of the Old Stone House, the oldest building in the nation’s capital. Discover what life was like in the 18th century as you explore its simple rooms, learn about early residents, and uncover the stories hidden within its stone walls. Perfect for visitors of all ages, this short tour offers a glimpse into everyday colonial life right in the heart of the city",
-  "start": "2026-08-14T12:30:00-04:00",
-  "end": "2026-08-14T13:00:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": 0,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-08-14T11:10:28.405Z"
- },
- {
   "id": "nps-e55fcbebbb",
   "source": "nps-events",
   "title": "Ranger Tours at Peirce Mill",
@@ -129,7 +63,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.480Z"
+  "fetched_at": "2026-08-16T10:42:35.846Z"
  },
  {
   "id": "nps-99413be6de",
@@ -151,7 +85,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.484Z"
+  "fetched_at": "2026-08-16T10:42:35.849Z"
  },
  {
   "id": "nps-2aa2496835",
@@ -173,7 +107,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.485Z"
+  "fetched_at": "2026-08-16T10:42:35.850Z"
  },
  {
   "id": "nps-731a9b378c",
@@ -195,7 +129,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.492Z"
+  "fetched_at": "2026-08-16T10:42:35.857Z"
  },
  {
   "id": "nps-76de079a9c",
@@ -217,7 +151,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.477Z"
+  "fetched_at": "2026-08-16T10:42:35.843Z"
  },
  {
   "id": "nps-9fa9bea76d",
@@ -239,7 +173,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.482Z"
+  "fetched_at": "2026-08-16T10:42:35.847Z"
  },
  {
   "id": "nps-4eb63b7467",
@@ -261,7 +195,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.492Z"
+  "fetched_at": "2026-08-16T10:42:35.857Z"
  },
  {
   "id": "nps-08bcb088ea",
@@ -283,7 +217,29 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.482Z"
+  "fetched_at": "2026-08-16T10:42:35.848Z"
+ },
+ {
+  "id": "nps-39a66af75d",
+  "source": "nps-events",
+  "title": "National Junior Ranger Day",
+  "desc": "Junior Ranger Day Location: Arlington House, the Robert E Lee Memorial Time: 9:30am - 4:00pm Junior Ranger activities for the whole family",
+  "start": "2026-08-22T09:30:00-04:00",
+  "end": "2026-08-22T16:00:00-04:00",
+  "venue": {
+   "name": "George Washington Memorial Parkway",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": null,
+  "age_max_m": null,
+  "cost": "free",
+  "setting": "out",
+  "weather": "any",
+  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
+  "status": "draft",
+  "fetched_at": "2026-08-16T10:42:35.857Z"
  },
  {
   "id": "nps-34032bcbd7",
@@ -305,7 +261,29 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.480Z"
+  "fetched_at": "2026-08-16T10:42:35.846Z"
+ },
+ {
+  "id": "nps-118551e57a",
+  "source": "nps-events",
+  "title": "National Junior Ranger Day",
+  "desc": "Junior Ranger Day Location: Great Falls Park Visitor Center Time: 10am - 4pm Junior Ranger activities for the whole family",
+  "start": "2026-08-22T10:00:00-04:00",
+  "end": "2026-08-22T16:00:00-04:00",
+  "venue": {
+   "name": "George Washington Memorial Parkway",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": null,
+  "age_max_m": null,
+  "cost": "free",
+  "setting": "out",
+  "weather": "any",
+  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
+  "status": "draft",
+  "fetched_at": "2026-08-16T10:42:35.858Z"
  },
  {
   "id": "nps-fa99b3ad62",
@@ -327,7 +305,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.484Z"
+  "fetched_at": "2026-08-16T10:42:35.849Z"
  },
  {
   "id": "nps-1876467fb8",
@@ -349,7 +327,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.486Z"
+  "fetched_at": "2026-08-16T10:42:35.851Z"
  },
  {
   "id": "nps-00727bc381",
@@ -371,7 +349,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.481Z"
+  "fetched_at": "2026-08-16T10:42:35.846Z"
  },
  {
   "id": "nps-d01dc0e904",
@@ -393,7 +371,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.484Z"
+  "fetched_at": "2026-08-16T10:42:35.849Z"
  },
  {
   "id": "nps-95f4e9f3ff",
@@ -415,7 +393,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.486Z"
+  "fetched_at": "2026-08-16T10:42:35.851Z"
  },
  {
   "id": "nps-92ec9aa68d",
@@ -437,7 +415,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.477Z"
+  "fetched_at": "2026-08-16T10:42:35.843Z"
  },
  {
   "id": "nps-d301a7930b",
@@ -459,7 +437,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.483Z"
+  "fetched_at": "2026-08-16T10:42:35.848Z"
  },
  {
   "id": "nps-79015580dc",
@@ -481,7 +459,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.483Z"
+  "fetched_at": "2026-08-16T10:42:35.848Z"
  },
  {
   "id": "nps-ed7560fb77",
@@ -503,7 +481,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.481Z"
+  "fetched_at": "2026-08-16T10:42:35.847Z"
  },
  {
   "id": "nps-b8dde6ef41",
@@ -525,7 +503,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.484Z"
+  "fetched_at": "2026-08-16T10:42:35.850Z"
  },
  {
   "id": "nps-8aad5a0cd4",
@@ -547,7 +525,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.486Z"
+  "fetched_at": "2026-08-16T10:42:35.851Z"
  },
  {
   "id": "nps-286aedad95",
@@ -569,7 +547,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.481Z"
+  "fetched_at": "2026-08-16T10:42:35.847Z"
  },
  {
   "id": "nps-593d1e1c1b",
@@ -591,7 +569,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.485Z"
+  "fetched_at": "2026-08-16T10:42:35.850Z"
  },
  {
   "id": "nps-427588bbea",
@@ -613,7 +591,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.486Z"
+  "fetched_at": "2026-08-16T10:42:35.851Z"
  },
  {
   "id": "nps-af64712adb",
@@ -635,7 +613,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.478Z"
+  "fetched_at": "2026-08-16T10:42:35.844Z"
  },
  {
   "id": "nps-df08250071",
@@ -657,7 +635,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.487Z"
+  "fetched_at": "2026-08-16T10:42:35.852Z"
  },
  {
   "id": "nps-22e1709306",
@@ -679,7 +657,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.476Z"
+  "fetched_at": "2026-08-16T10:42:35.842Z"
  },
  {
   "id": "nps-3e0f85d913",
@@ -701,7 +679,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.487Z"
+  "fetched_at": "2026-08-16T10:42:35.852Z"
  },
  {
   "id": "nps-9ba74b7f28",
@@ -723,7 +701,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.478Z"
+  "fetched_at": "2026-08-16T10:42:35.844Z"
  },
  {
   "id": "nps-696703a853",
@@ -745,7 +723,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.487Z"
+  "fetched_at": "2026-08-16T10:42:35.852Z"
  },
  {
   "id": "nps-e841aa347a",
@@ -767,7 +745,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.488Z"
+  "fetched_at": "2026-08-16T10:42:35.853Z"
  },
  {
   "id": "nps-2d8b6ebcd8",
@@ -789,7 +767,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.478Z"
+  "fetched_at": "2026-08-16T10:42:35.844Z"
  },
  {
   "id": "nps-e79557b9fb",
@@ -811,7 +789,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.488Z"
+  "fetched_at": "2026-08-16T10:42:35.853Z"
  },
  {
   "id": "nps-67eb638f89",
@@ -833,7 +811,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.488Z"
+  "fetched_at": "2026-08-16T10:42:35.853Z"
  },
  {
   "id": "nps-96f5c71693",
@@ -855,7 +833,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.479Z"
+  "fetched_at": "2026-08-16T10:42:35.845Z"
  },
  {
   "id": "nps-7e93c8e750",
@@ -877,7 +855,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.488Z"
+  "fetched_at": "2026-08-16T10:42:35.853Z"
  },
  {
   "id": "nps-ac5a4b7a10",
@@ -899,6 +877,6 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-08-15T10:41:56.489Z"
+  "fetched_at": "2026-08-16T10:42:35.854Z"
  }
 ]
