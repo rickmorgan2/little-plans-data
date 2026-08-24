@@ -98,3 +98,4 @@
 {"ts":"2026-08-23T10:43:46.342Z","skill":"smithsonian-events","ok":true,"fetched":217,"added":7,"updated":210,"ms":1601}
 {"ts":"2026-08-24T10:55:51.077Z","skill":"nps-events","ok":true,"fetched":29,"added":2,"updated":27,"ms":1481}
 {"ts":"2026-08-24T10:55:53.033Z","skill":"smithsonian-events","ok":true,"fetched":216,"added":2,"updated":214,"ms":1956}
+{"ts":"2026-08-24T11:45:55.199Z","skill":"dc-rec-facilities","ok":true,"fetched":147,"added":0,"updated":147,"ms":826}
