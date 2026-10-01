@@ -19,51 +19,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D204485228",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.287Z"
- },
- {
-  "id": "sie-28a00bc982",
-  "source": "smithsonian-events",
-  "title": "Little Critters: Nature Play at the Bird House (World Cassowary Day)",
-  "desc": "Not all birds fly- but all birds rock! Celebrate World Cassowary Day with creative, drop-in play at the Zoo as we learn about flightless birds, like cassowaries! Little Critters: Nature Play is designed for ages 0-5 and their caregivers and families. Activities are designed with early learners in mind, but all ages are welcome. Parents and guardians must remain with their children. Location: Bird ",
-  "start": "2026-09-29T09:30:00-04:00",
-  "end": "2026-09-29T13:30:00-04:00",
-  "venue": {
-   "name": "National Zoo",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": 0,
-  "age_max_m": 60,
-  "cost": "free",
-  "setting": "out",
-  "weather": "unknown",
-  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D194685930",
-  "status": "draft",
-  "fetched_at": "2026-09-29T16:32:36.407Z"
- },
- {
-  "id": "sie-5b0e1221d7",
-  "source": "smithsonian-events",
-  "title": "Broad Stripes and Bright Stars",
-  "desc": "Meet Mary Pickersgill, seamstress of the enormous garrison flag that inspired the lyrics to America&#8217;s national anthem and later became known as the Star-Spangled Banner. What was it like to live in a nation defending its sovereignty? Learn about the War of 1812, considered America&#8217;s Second War of Independence, and about ways that widows like Mary expressed patriotism and resourcefulnes",
-  "start": "2026-09-29T12:00:00-04:00",
-  "end": "2026-09-29T12:30:00-04:00",
-  "venue": {
-   "name": "American History Museum",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "unknown",
-  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207634137",
-  "status": "draft",
-  "fetched_at": "2026-09-08T14:36:29.246Z"
+  "fetched_at": "2026-10-01T17:03:19.371Z"
  },
  {
   "id": "sie-9fcd2583bd",
@@ -110,28 +66,6 @@
   "fetched_at": "2026-09-30T16:25:35.287Z"
  },
  {
-  "id": "sie-5d5d111125",
-  "source": "smithsonian-events",
-  "title": "Broad Stripes and Bright Stars",
-  "desc": "Meet Mary Pickersgill, seamstress of the enormous garrison flag that inspired the lyrics to America&#8217;s national anthem and later became known as the Star-Spangled Banner. What was it like to live in a nation defending its sovereignty? Learn about the War of 1812, considered America&#8217;s Second War of Independence, and about ways that widows like Mary expressed patriotism and resourcefulnes",
-  "start": "2026-09-30T12:00:00-04:00",
-  "end": "2026-09-30T12:30:00-04:00",
-  "venue": {
-   "name": "American History Museum",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "unknown",
-  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207634138",
-  "status": "draft",
-  "fetched_at": "2026-09-08T14:36:29.247Z"
- },
- {
   "id": "sie-d5af1497c6",
   "source": "smithsonian-events",
   "title": "Little Critters: Nature Play at the Bird House (World Cassowary Day)",
@@ -151,7 +85,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D194685931",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.288Z"
+  "fetched_at": "2026-10-01T17:03:19.371Z"
  },
  {
   "id": "sie-59679283f4",
@@ -173,7 +107,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159840",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.289Z"
+  "fetched_at": "2026-10-01T17:03:19.372Z"
  },
  {
   "id": "sie-7ce05b552a",
@@ -195,7 +129,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178026320",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.289Z"
+  "fetched_at": "2026-10-01T17:03:19.372Z"
  },
  {
   "id": "sie-9026f8a15e",
@@ -217,7 +151,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447831",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.289Z"
+  "fetched_at": "2026-10-01T17:03:19.375Z"
  },
  {
   "id": "sie-6909b6cc88",
@@ -239,7 +173,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484102",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.290Z"
+  "fetched_at": "2026-10-01T17:03:19.376Z"
  },
  {
   "id": "sie-3b4f9a86af",
@@ -261,7 +195,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484090",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.290Z"
+  "fetched_at": "2026-10-01T17:03:19.376Z"
  },
  {
   "id": "sie-bde3d04188",
@@ -305,7 +239,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447850",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.290Z"
+  "fetched_at": "2026-10-01T17:03:19.377Z"
  },
  {
   "id": "sie-10bfdf7287",
@@ -327,7 +261,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159841",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.291Z"
+  "fetched_at": "2026-10-01T17:03:19.377Z"
  },
  {
   "id": "sie-f05102e7ef",
@@ -349,7 +283,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D177897439",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.291Z"
+  "fetched_at": "2026-10-01T17:03:19.377Z"
  },
  {
   "id": "sie-f6a62ed38c",
@@ -371,7 +305,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D182388247",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.291Z"
+  "fetched_at": "2026-10-01T17:03:19.378Z"
  },
  {
   "id": "sie-7f4a4e68eb",
@@ -393,7 +327,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447832",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.292Z"
+  "fetched_at": "2026-10-01T17:03:19.381Z"
  },
  {
   "id": "sie-3f83360bd2",
@@ -415,7 +349,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207817545",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.292Z"
+  "fetched_at": "2026-10-01T17:03:19.381Z"
  },
  {
   "id": "sie-03469097fe",
@@ -459,7 +393,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D202306857",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.292Z"
+  "fetched_at": "2026-10-01T17:03:19.382Z"
  },
  {
   "id": "sie-2021042474",
@@ -481,7 +415,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447851",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.293Z"
+  "fetched_at": "2026-10-01T17:03:19.382Z"
  },
  {
   "id": "sie-48fc552682",
@@ -503,7 +437,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199117100",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.293Z"
+  "fetched_at": "2026-10-01T17:03:19.382Z"
  },
  {
   "id": "sie-6a441eab75",
@@ -525,7 +459,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159842",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.294Z"
+  "fetched_at": "2026-10-01T17:03:19.383Z"
  },
  {
   "id": "sie-eedc83057a",
@@ -547,7 +481,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D177898403",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.294Z"
+  "fetched_at": "2026-10-01T17:03:19.383Z"
  },
  {
   "id": "sie-c697b7031e",
@@ -569,7 +503,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207167358",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.294Z"
+  "fetched_at": "2026-10-01T17:03:19.383Z"
  },
  {
   "id": "sie-02aa5f58bd",
@@ -591,7 +525,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447833",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.294Z"
+  "fetched_at": "2026-10-01T17:03:19.384Z"
  },
  {
   "id": "sie-867c1720f4",
@@ -613,7 +547,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206158163",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.295Z"
+  "fetched_at": "2026-10-01T17:03:19.384Z"
  },
  {
   "id": "sie-f9e4742318",
@@ -635,7 +569,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546359",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.295Z"
+  "fetched_at": "2026-10-01T17:03:19.384Z"
  },
  {
   "id": "sie-e4346ad1ec",
@@ -679,7 +613,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447852",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.296Z"
+  "fetched_at": "2026-10-01T17:03:19.385Z"
  },
  {
   "id": "sie-2de25652d5",
@@ -701,7 +635,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546370",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.296Z"
+  "fetched_at": "2026-10-01T17:03:19.384Z"
  },
  {
   "id": "sie-f1de1aa453",
@@ -723,7 +657,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D208878992",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.296Z"
+  "fetched_at": "2026-10-01T17:03:19.385Z"
  },
  {
   "id": "sie-7102e5471f",
@@ -745,7 +679,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546379",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.296Z"
+  "fetched_at": "2026-10-01T17:03:19.385Z"
  },
  {
   "id": "sie-f9aaf48096",
@@ -767,7 +701,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159843",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.297Z"
+  "fetched_at": "2026-10-01T17:03:19.386Z"
  },
  {
   "id": "sie-a7903781ea",
@@ -789,7 +723,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D177898812",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.297Z"
+  "fetched_at": "2026-10-01T17:03:19.386Z"
  },
  {
   "id": "sie-643116af87",
@@ -811,7 +745,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447834",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.298Z"
+  "fetched_at": "2026-10-01T17:03:19.386Z"
  },
  {
   "id": "sie-77141be645",
@@ -855,7 +789,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447853",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.298Z"
+  "fetched_at": "2026-10-01T17:03:19.387Z"
  },
  {
   "id": "sie-8f6bafd072",
@@ -877,7 +811,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D193491086",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.299Z"
+  "fetched_at": "2026-10-01T17:03:19.387Z"
  },
  {
   "id": "sie-ad80be959f",
@@ -899,7 +833,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206158139",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.299Z"
+  "fetched_at": "2026-10-01T17:03:19.388Z"
  },
  {
   "id": "sie-85c0b4c5b6",
@@ -943,7 +877,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207167359",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.299Z"
+  "fetched_at": "2026-10-01T17:03:19.388Z"
  },
  {
   "id": "sie-6fda41db0c",
@@ -965,7 +899,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484091",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.300Z"
+  "fetched_at": "2026-10-01T17:03:19.388Z"
  },
  {
   "id": "sie-00a87e17cd",
@@ -1009,7 +943,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159844",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.300Z"
+  "fetched_at": "2026-10-01T17:03:19.389Z"
  },
  {
   "id": "sie-57f8e31f09",
@@ -1031,7 +965,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178149509",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.301Z"
+  "fetched_at": "2026-10-01T17:03:19.389Z"
  },
  {
   "id": "sie-55eec9b39a",
@@ -1075,7 +1009,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207167360",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.301Z"
+  "fetched_at": "2026-10-01T17:03:19.390Z"
  },
  {
   "id": "sie-2b8e72916f",
@@ -1097,7 +1031,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159845",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.301Z"
+  "fetched_at": "2026-10-01T17:03:19.390Z"
  },
  {
   "id": "sie-d6468e1248",
@@ -1119,7 +1053,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178026321",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.302Z"
+  "fetched_at": "2026-10-01T17:03:19.390Z"
  },
  {
   "id": "sie-c7eab2c70d",
@@ -1141,7 +1075,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447835",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.302Z"
+  "fetched_at": "2026-10-01T17:03:19.391Z"
  },
  {
   "id": "sie-02514ca4c9",
@@ -1163,7 +1097,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484103",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.303Z"
+  "fetched_at": "2026-10-01T17:03:19.391Z"
  },
  {
   "id": "sie-26ea483f21",
@@ -1185,7 +1119,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484092",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.303Z"
+  "fetched_at": "2026-10-01T17:03:19.391Z"
  },
  {
   "id": "sie-aba579db64",
@@ -1207,7 +1141,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207639107",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.303Z"
+  "fetched_at": "2026-10-01T17:03:19.391Z"
  },
  {
   "id": "sie-44b6d58a41",
@@ -1251,7 +1185,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447854",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.304Z"
+  "fetched_at": "2026-10-01T17:03:19.392Z"
  },
  {
   "id": "sie-1361e573c2",
@@ -1273,7 +1207,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159846",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.305Z"
+  "fetched_at": "2026-10-01T17:03:19.393Z"
  },
  {
   "id": "sie-0b6581b909",
@@ -1295,7 +1229,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178156427",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.305Z"
+  "fetched_at": "2026-10-01T17:03:19.394Z"
  },
  {
   "id": "sie-588af3e9ed",
@@ -1317,7 +1251,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D182388248",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.306Z"
+  "fetched_at": "2026-10-01T17:03:19.394Z"
  },
  {
   "id": "sie-3d651df3ec",
@@ -1339,7 +1273,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447836",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.306Z"
+  "fetched_at": "2026-10-01T17:03:19.395Z"
  },
  {
   "id": "sie-747bb9741b",
@@ -1361,7 +1295,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207817546",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.306Z"
+  "fetched_at": "2026-10-01T17:03:19.394Z"
  },
  {
   "id": "sie-09b39adb05",
@@ -1405,7 +1339,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447855",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.307Z"
+  "fetched_at": "2026-10-01T17:03:19.395Z"
  },
  {
   "id": "sie-d1413c4c80",
@@ -1427,7 +1361,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D208760366",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.307Z"
+  "fetched_at": "2026-10-01T17:03:19.396Z"
  },
  {
   "id": "sie-da1ae20768",
@@ -1449,7 +1383,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207167361",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.308Z"
+  "fetched_at": "2026-10-01T17:03:19.396Z"
  },
  {
   "id": "sie-df8b983de2",
@@ -1471,7 +1405,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159847",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.308Z"
+  "fetched_at": "2026-10-01T17:03:19.396Z"
  },
  {
   "id": "sie-c5540e7b98",
@@ -1493,7 +1427,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178158264",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.308Z"
+  "fetched_at": "2026-10-01T17:03:19.397Z"
  },
  {
   "id": "sie-4c02dd67a4",
@@ -1515,7 +1449,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447837",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.309Z"
+  "fetched_at": "2026-10-01T17:03:19.397Z"
  },
  {
   "id": "sie-556c4f4ada",
@@ -1537,7 +1471,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206158218",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.310Z"
+  "fetched_at": "2026-10-01T17:03:19.398Z"
  },
  {
   "id": "sie-aba220a672",
@@ -1559,7 +1493,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546360",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.309Z"
+  "fetched_at": "2026-10-01T17:03:19.397Z"
  },
  {
   "id": "sie-724819ab21",
@@ -1603,7 +1537,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209152287",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.310Z"
+  "fetched_at": "2026-10-01T17:03:19.398Z"
  },
  {
   "id": "sie-1cc3afcda7",
@@ -1625,7 +1559,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447856",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.311Z"
+  "fetched_at": "2026-10-01T17:03:19.399Z"
  },
  {
   "id": "sie-87958d9720",
@@ -1647,7 +1581,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546371",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.310Z"
+  "fetched_at": "2026-10-01T17:03:19.398Z"
  },
  {
   "id": "sie-cae8aa663b",
@@ -1669,7 +1603,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546380",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.311Z"
+  "fetched_at": "2026-10-01T17:03:19.399Z"
  },
  {
   "id": "sie-f6f43865d0",
@@ -1691,7 +1625,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159848",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.312Z"
+  "fetched_at": "2026-10-01T17:03:19.399Z"
  },
  {
   "id": "sie-9008346fbf",
@@ -1713,7 +1647,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178158684",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.312Z"
+  "fetched_at": "2026-10-01T17:03:19.400Z"
  },
  {
   "id": "sie-edb3bac885",
@@ -1735,7 +1669,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447838",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.312Z"
+  "fetched_at": "2026-10-01T17:03:19.400Z"
  },
  {
   "id": "sie-db482f1f34",
@@ -1779,7 +1713,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447857",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.313Z"
+  "fetched_at": "2026-10-01T17:03:19.400Z"
  },
  {
   "id": "sie-8e6edaffc3",
@@ -1801,7 +1735,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207133944",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.313Z"
+  "fetched_at": "2026-10-01T17:03:19.403Z"
  },
  {
   "id": "sie-9a71f27328",
@@ -1845,7 +1779,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170474",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.314Z"
+  "fetched_at": "2026-10-01T17:03:19.404Z"
  },
  {
   "id": "sie-563357d3a2",
@@ -1867,7 +1801,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484093",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.314Z"
+  "fetched_at": "2026-10-01T17:03:19.404Z"
  },
  {
   "id": "sie-4e9900acf1",
@@ -1911,7 +1845,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159849",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.315Z"
+  "fetched_at": "2026-10-01T17:03:19.405Z"
  },
  {
   "id": "sie-c77e1c5119",
@@ -1933,7 +1867,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178149510",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.315Z"
+  "fetched_at": "2026-10-01T17:03:19.405Z"
  },
  {
   "id": "sie-68a620579e",
@@ -1955,7 +1889,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D208855322",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.315Z"
+  "fetched_at": "2026-10-01T17:03:19.405Z"
  },
  {
   "id": "sie-cecf622821",
@@ -1999,7 +1933,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170475",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.316Z"
+  "fetched_at": "2026-10-01T17:03:19.406Z"
  },
  {
   "id": "sie-281252646b",
@@ -2021,7 +1955,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159850",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.316Z"
+  "fetched_at": "2026-10-01T17:03:19.406Z"
  },
  {
   "id": "sie-6a93cc5e81",
@@ -2043,7 +1977,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178269688",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.317Z"
+  "fetched_at": "2026-10-01T17:03:19.406Z"
  },
  {
   "id": "sie-37411db319",
@@ -2065,7 +1999,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447839",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.317Z"
+  "fetched_at": "2026-10-01T17:03:19.407Z"
  },
  {
   "id": "sie-ca0011d98b",
@@ -2087,7 +2021,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484104",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.317Z"
+  "fetched_at": "2026-10-01T17:03:19.407Z"
  },
  {
   "id": "sie-e0c2ec3a0e",
@@ -2109,7 +2043,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484094",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.318Z"
+  "fetched_at": "2026-10-01T17:03:19.407Z"
  },
  {
   "id": "sie-9041990b6f",
@@ -2153,7 +2087,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206447858",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.318Z"
+  "fetched_at": "2026-10-01T17:03:19.407Z"
  },
  {
   "id": "sie-3566fd7d3e",
@@ -2175,7 +2109,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D205645511",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.319Z"
+  "fetched_at": "2026-10-01T17:03:19.408Z"
  },
  {
   "id": "sie-69299c1217",
@@ -2197,7 +2131,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159851",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.319Z"
+  "fetched_at": "2026-10-01T17:03:19.408Z"
  },
  {
   "id": "sie-bfc019051c",
@@ -2219,7 +2153,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178156428",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.319Z"
+  "fetched_at": "2026-10-01T17:03:19.408Z"
  },
  {
   "id": "sie-dcee34d0e4",
@@ -2241,7 +2175,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D182388249",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.320Z"
+  "fetched_at": "2026-10-01T17:03:19.409Z"
  },
  {
   "id": "sie-4573f36bef",
@@ -2263,7 +2197,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207817547",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.320Z"
+  "fetched_at": "2026-10-01T17:03:19.409Z"
  },
  {
   "id": "sie-765f28ce1c",
@@ -2307,7 +2241,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209759954",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.321Z"
+  "fetched_at": "2026-10-01T17:03:19.409Z"
  },
  {
   "id": "sie-f9924d074c",
@@ -2329,7 +2263,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170476",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.321Z"
+  "fetched_at": "2026-10-01T17:03:19.410Z"
  },
  {
   "id": "sie-b09299909d",
@@ -2351,7 +2285,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159852",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.322Z"
+  "fetched_at": "2026-10-01T17:03:19.410Z"
  },
  {
   "id": "sie-1bfdfcd7ea",
@@ -2373,7 +2307,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178158265",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.322Z"
+  "fetched_at": "2026-10-01T17:03:19.410Z"
  },
  {
   "id": "sie-8aaf321380",
@@ -2395,7 +2329,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207639161",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.322Z"
+  "fetched_at": "2026-10-01T17:03:19.410Z"
  },
  {
   "id": "sie-571887690a",
@@ -2417,7 +2351,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209759905",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.323Z"
+  "fetched_at": "2026-10-01T17:03:19.411Z"
  },
  {
   "id": "sie-cecb175b20",
@@ -2439,7 +2373,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206158220",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.323Z"
+  "fetched_at": "2026-10-01T17:03:19.411Z"
  },
  {
   "id": "sie-b1aff668b4",
@@ -2483,7 +2417,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D204495149",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.324Z"
+  "fetched_at": "2026-10-01T17:03:19.412Z"
  },
  {
   "id": "sie-d73e81719b",
@@ -2505,7 +2439,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159853",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.324Z"
+  "fetched_at": "2026-10-01T17:03:19.412Z"
  },
  {
   "id": "sie-0045112782",
@@ -2527,7 +2461,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178158685",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.324Z"
+  "fetched_at": "2026-10-01T17:03:19.412Z"
  },
  {
   "id": "sie-e8c0d2bffc",
@@ -2571,7 +2505,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207470369",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.326Z"
+  "fetched_at": "2026-10-01T17:03:19.413Z"
  },
  {
   "id": "sie-5991c878d9",
@@ -2593,7 +2527,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D193491087",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.326Z"
+  "fetched_at": "2026-10-01T17:03:19.413Z"
  },
  {
   "id": "sie-670acdfa5e",
@@ -2615,7 +2549,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206158141",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.326Z"
+  "fetched_at": "2026-10-01T17:03:19.413Z"
  },
  {
   "id": "sie-ed44286362",
@@ -2659,7 +2593,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170477",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.327Z"
+  "fetched_at": "2026-10-01T17:03:19.414Z"
  },
  {
   "id": "sie-fa93e7a9e7",
@@ -2681,7 +2615,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206413282",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.327Z"
+  "fetched_at": "2026-10-01T17:03:19.414Z"
  },
  {
   "id": "sie-56db8d78b8",
@@ -2703,7 +2637,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484095",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.328Z"
+  "fetched_at": "2026-10-01T17:03:19.414Z"
  },
  {
   "id": "sie-298c87fe75",
@@ -2747,7 +2681,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D205909109",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.328Z"
+  "fetched_at": "2026-10-01T17:03:19.414Z"
  },
  {
   "id": "sie-cbb8906dfb",
@@ -2769,7 +2703,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159854",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.328Z"
+  "fetched_at": "2026-10-01T17:03:19.415Z"
  },
  {
   "id": "sie-19f4f94cec",
@@ -2791,7 +2725,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178390292",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.329Z"
+  "fetched_at": "2026-10-01T17:03:19.415Z"
  },
  {
   "id": "sie-39471737c0",
@@ -2835,7 +2769,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170478",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.329Z"
+  "fetched_at": "2026-10-01T17:03:19.415Z"
  },
  {
   "id": "sie-1b7cd3520a",
@@ -2857,7 +2791,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159855",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.330Z"
+  "fetched_at": "2026-10-01T17:03:19.416Z"
  },
  {
   "id": "sie-099bdd1461",
@@ -2879,7 +2813,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178269689",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.330Z"
+  "fetched_at": "2026-10-01T17:03:19.416Z"
  },
  {
   "id": "sie-6a4d6b4057",
@@ -2901,7 +2835,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484105",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.330Z"
+  "fetched_at": "2026-10-01T17:03:19.416Z"
  },
  {
   "id": "sie-524cbc4d5b",
@@ -2923,7 +2857,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484096",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.330Z"
+  "fetched_at": "2026-10-01T17:03:19.416Z"
  },
  {
   "id": "sie-0ae81e1771",
@@ -2967,7 +2901,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D208293616",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.331Z"
+  "fetched_at": "2026-10-01T17:03:19.417Z"
  },
  {
   "id": "sie-2af20310b0",
@@ -2989,7 +2923,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159856",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.331Z"
+  "fetched_at": "2026-10-01T17:03:19.417Z"
  },
  {
   "id": "sie-e2c76327b3",
@@ -3011,7 +2945,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178396858",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.332Z"
+  "fetched_at": "2026-10-01T17:03:19.417Z"
  },
  {
   "id": "sie-6703978806",
@@ -3033,7 +2967,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D182388250",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.332Z"
+  "fetched_at": "2026-10-01T17:03:19.417Z"
  },
  {
   "id": "sie-43a1331c8b",
@@ -3055,7 +2989,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207817548",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.332Z"
+  "fetched_at": "2026-10-01T17:03:19.418Z"
  },
  {
   "id": "sie-eab64f32bc",
@@ -3077,7 +3011,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D205909090",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.333Z"
+  "fetched_at": "2026-10-01T17:03:19.418Z"
  },
  {
   "id": "sie-9187350a7b",
@@ -3099,7 +3033,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D208192264",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.333Z"
+  "fetched_at": "2026-10-01T17:03:19.419Z"
  },
  {
   "id": "sie-7dd62ea33c",
@@ -3143,7 +3077,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170482",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.334Z"
+  "fetched_at": "2026-10-01T17:03:19.419Z"
  },
  {
   "id": "sie-a052e4b581",
@@ -3165,7 +3099,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159857",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.334Z"
+  "fetched_at": "2026-10-01T17:03:19.419Z"
  },
  {
   "id": "sie-d8472563f8",
@@ -3187,7 +3121,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178398011",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.334Z"
+  "fetched_at": "2026-10-01T17:03:19.419Z"
  },
  {
   "id": "sie-0157d6f8bb",
@@ -3209,7 +3143,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209513878",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.335Z"
+  "fetched_at": "2026-10-01T17:03:19.420Z"
  },
  {
   "id": "sie-4952bcc892",
@@ -3231,7 +3165,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D204357253",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.335Z"
+  "fetched_at": "2026-10-01T17:03:19.420Z"
  },
  {
   "id": "sie-1dc977cd56",
@@ -3253,7 +3187,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546362",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.335Z"
+  "fetched_at": "2026-10-01T17:03:19.420Z"
  },
  {
   "id": "sie-9ffca7ae1d",
@@ -3275,7 +3209,29 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206158222",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.336Z"
+  "fetched_at": "2026-10-01T17:03:19.421Z"
+ },
+ {
+  "id": "sie-68ea340df5",
+  "source": "smithsonian-events",
+  "title": "Go-Go Fitness",
+  "desc": "Join Go-Go Fitness LLC as they lead a fun dance fitness workshop for the whole family to DC&#8217;s home sound &#8211; Go-Go Music. Dress in loose fitting, comfortable clothes, wear tennis shoes, and bring water and a hand towel. Reserve your spot today! Since February 2012, Go-Go Fitness LLC has been a trusted partner and leader in dance fitness and total health and wellness in the District, the ",
+  "start": "2026-10-24T12:00:00-04:00",
+  "end": "2026-10-24T13:00:00-04:00",
+  "venue": {
+   "name": "Anacostia Community Museum",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": 0,
+  "age_max_m": null,
+  "cost": "free",
+  "setting": "out",
+  "weather": "unknown",
+  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207817835",
+  "status": "draft",
+  "fetched_at": "2026-10-01T17:03:19.421Z"
  },
  {
   "id": "sie-35f92da18d",
@@ -3297,7 +3253,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D197216920",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.336Z"
+  "fetched_at": "2026-10-01T17:03:19.421Z"
  },
  {
   "id": "sie-17600d0034",
@@ -3319,7 +3275,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546373",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.337Z"
+  "fetched_at": "2026-10-01T17:03:19.421Z"
  },
  {
   "id": "sie-70cd9446ba",
@@ -3341,7 +3297,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D204456700",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.337Z"
+  "fetched_at": "2026-10-01T17:03:19.421Z"
  },
  {
   "id": "sie-6c200b9c34",
@@ -3363,7 +3319,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546382",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.337Z"
+  "fetched_at": "2026-10-01T17:03:19.422Z"
  },
  {
   "id": "sie-d413835719",
@@ -3385,7 +3341,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209648053",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.338Z"
+  "fetched_at": "2026-10-01T17:03:19.422Z"
  },
  {
   "id": "sie-3efdfb7d02",
@@ -3407,7 +3363,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159858",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.338Z"
+  "fetched_at": "2026-10-01T17:03:19.422Z"
  },
  {
   "id": "sie-d210d200b4",
@@ -3429,7 +3385,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178398653",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.338Z"
+  "fetched_at": "2026-10-01T17:03:19.422Z"
  },
  {
   "id": "sie-ecb7ce755b",
@@ -3451,7 +3407,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206158143",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.339Z"
+  "fetched_at": "2026-10-01T17:03:19.423Z"
  },
  {
   "id": "sie-90d1cee686",
@@ -3473,7 +3429,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170483",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.339Z"
+  "fetched_at": "2026-10-01T17:03:19.424Z"
  },
  {
   "id": "sie-f77aac45be",
@@ -3495,7 +3451,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484097",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.340Z"
+  "fetched_at": "2026-10-01T17:03:19.424Z"
  },
  {
   "id": "sie-33b1488e43",
@@ -3517,7 +3473,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159859",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.340Z"
+  "fetched_at": "2026-10-01T17:03:19.424Z"
  },
  {
   "id": "sie-2d3ae3bc4f",
@@ -3539,7 +3495,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178390293",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.341Z"
+  "fetched_at": "2026-10-01T17:03:19.425Z"
  },
  {
   "id": "sie-75292e6ac2",
@@ -3561,7 +3517,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D200427588",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.341Z"
+  "fetched_at": "2026-10-01T17:03:19.425Z"
  },
  {
   "id": "sie-cef10e122f",
@@ -3583,7 +3539,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170484",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.342Z"
+  "fetched_at": "2026-10-01T17:03:19.425Z"
  },
  {
   "id": "sie-4535a62304",
@@ -3605,7 +3561,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159860",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.342Z"
+  "fetched_at": "2026-10-01T17:03:19.426Z"
  },
  {
   "id": "sie-f740fb0c8d",
@@ -3627,7 +3583,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178506427",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.342Z"
+  "fetched_at": "2026-10-01T17:03:19.426Z"
  },
  {
   "id": "sie-697d6e37ac",
@@ -3649,7 +3605,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484106",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.343Z"
+  "fetched_at": "2026-10-01T17:03:19.426Z"
  },
  {
   "id": "sie-6f3994c89e",
@@ -3671,7 +3627,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D199484098",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.343Z"
+  "fetched_at": "2026-10-01T17:03:19.426Z"
  },
  {
   "id": "sie-94970df14b",
@@ -3693,7 +3649,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D208192395",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.344Z"
+  "fetched_at": "2026-10-01T17:03:19.427Z"
  },
  {
   "id": "sie-1e5a74f2b4",
@@ -3715,7 +3671,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159861",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.344Z"
+  "fetched_at": "2026-10-01T17:03:19.427Z"
  },
  {
   "id": "sie-93df09518b",
@@ -3737,7 +3693,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178396859",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.344Z"
+  "fetched_at": "2026-10-01T17:03:19.428Z"
  },
  {
   "id": "sie-2fa1e6d478",
@@ -3759,7 +3715,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D182388251",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.345Z"
+  "fetched_at": "2026-10-01T17:03:19.428Z"
  },
  {
   "id": "sie-07dcd23de1",
@@ -3781,7 +3737,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207817549",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.345Z"
+  "fetched_at": "2026-10-01T17:03:19.428Z"
  },
  {
   "id": "sie-df67b9a450",
@@ -3803,13 +3759,13 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170485",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.346Z"
+  "fetched_at": "2026-10-01T17:03:19.429Z"
  },
  {
   "id": "sie-2a4d590964",
   "source": "smithsonian-events",
   "title": "DC | D&#237;a de los Muertos (Day of the Dead)",
-  "desc": "D&#237;a de los Muertos (Day of the Dead) is a time for commemorating our ancestors. Rather than a period of mourning, it is an occasion for celebrating with family&#8212;both living and dead&#8212;and honoring the cycle of life. Learn about La Catrina and her joyful view of life and mortality. Enjoy family-friendly activities throughout the day, including dance performances, coloring activities, ",
+  "desc": "D&#237;a de los Muertos (Day of the Dead) is a time for commemorating our ancestors. Rather than a period of mourning, it is an occasion for celebrating with family&#8212;both living and dead&#8212;and honoring the cycle of life. Enjoy family-friendly activities throughout the day, including dance performances by Grupo los Tecuanes, making paper marigolds to be placed on a Catrina statue, and maki",
   "start": "2026-10-31T10:00:00-04:00",
   "end": "2026-10-31T17:00:00-04:00",
   "venue": {
@@ -3818,14 +3774,14 @@
    "lat": null,
    "lon": null
   },
-  "age_min_m": null,
-  "age_max_m": null,
+  "age_min_m": 36,
+  "age_max_m": 108,
   "cost": "free",
   "setting": "out",
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207293960",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.346Z"
+  "fetched_at": "2026-10-01T17:03:19.429Z"
  },
  {
   "id": "sie-d4760f42f9",
@@ -3847,7 +3803,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159862",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.346Z"
+  "fetched_at": "2026-10-01T17:03:19.429Z"
  },
  {
   "id": "sie-8105ba9a2a",
@@ -3869,7 +3825,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178398012",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.347Z"
+  "fetched_at": "2026-10-01T17:03:19.429Z"
  },
  {
   "id": "sie-8df2f7626f",
@@ -3891,7 +3847,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207470672",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.347Z"
+  "fetched_at": "2026-10-01T17:03:19.430Z"
  },
  {
   "id": "sie-9a2d2cc832",
@@ -3913,7 +3869,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207293618",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.347Z"
+  "fetched_at": "2026-10-01T17:03:19.430Z"
  },
  {
   "id": "sie-9d5adb3064",
@@ -3935,7 +3891,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D208752209",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.348Z"
+  "fetched_at": "2026-10-01T17:03:19.430Z"
  },
  {
   "id": "sie-4c810e91ab",
@@ -3957,7 +3913,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546363",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.348Z"
+  "fetched_at": "2026-10-01T17:03:19.430Z"
  },
  {
   "id": "sie-2e5381e552",
@@ -3979,7 +3935,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206158224",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.348Z"
+  "fetched_at": "2026-10-01T17:03:19.431Z"
  },
  {
   "id": "sie-e0aa782d0d",
@@ -4001,7 +3957,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207821515",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.349Z"
+  "fetched_at": "2026-10-01T17:03:19.431Z"
  },
  {
   "id": "sie-7acde8c259",
@@ -4023,7 +3979,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546374",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.349Z"
+  "fetched_at": "2026-10-01T17:03:19.431Z"
  },
  {
   "id": "sie-e4eb4c159d",
@@ -4045,7 +4001,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207546383",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.349Z"
+  "fetched_at": "2026-10-01T17:03:19.431Z"
  },
  {
   "id": "sie-5b14257d1a",
@@ -4067,7 +4023,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159863",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.350Z"
+  "fetched_at": "2026-10-01T17:03:19.432Z"
  },
  {
   "id": "sie-49990b44cc",
@@ -4089,7 +4045,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178398654",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.350Z"
+  "fetched_at": "2026-10-01T17:03:19.432Z"
  },
  {
   "id": "sie-cf2236658a",
@@ -4111,7 +4067,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207730538",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.351Z"
+  "fetched_at": "2026-10-01T17:03:19.433Z"
  },
  {
   "id": "sie-bbca5c4c41",
@@ -4133,7 +4089,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D193491088",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.351Z"
+  "fetched_at": "2026-10-01T17:03:19.434Z"
  },
  {
   "id": "sie-7118fba5a1",
@@ -4155,7 +4111,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209027835",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.352Z"
+  "fetched_at": "2026-10-01T17:03:19.434Z"
  },
  {
   "id": "sie-fef0a90a1e",
@@ -4177,7 +4133,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170490",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.352Z"
+  "fetched_at": "2026-10-01T17:03:19.434Z"
  },
  {
   "id": "sie-794c5dc44b",
@@ -4199,7 +4155,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159864",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.353Z"
+  "fetched_at": "2026-10-01T17:03:19.435Z"
  },
  {
   "id": "sie-00ce9c49ed",
@@ -4221,7 +4177,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178714236",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.353Z"
+  "fetched_at": "2026-10-01T17:03:19.435Z"
  },
  {
   "id": "sie-545638f5a5",
@@ -4243,7 +4199,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D205909001",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.354Z"
+  "fetched_at": "2026-10-01T17:03:19.435Z"
  },
  {
   "id": "sie-9af5f41961",
@@ -4265,7 +4221,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170491",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.354Z"
+  "fetched_at": "2026-10-01T17:03:19.436Z"
  },
  {
   "id": "sie-5b37c9e1f5",
@@ -4287,7 +4243,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159865",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.355Z"
+  "fetched_at": "2026-10-01T17:03:19.436Z"
  },
  {
   "id": "sie-da43dac030",
@@ -4309,7 +4265,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178506428",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.355Z"
+  "fetched_at": "2026-10-01T17:03:19.436Z"
  },
  {
   "id": "sie-c9e5a7e98f",
@@ -4331,7 +4287,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159866",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.356Z"
+  "fetched_at": "2026-10-01T17:03:19.436Z"
  },
  {
   "id": "sie-c0c1e59430",
@@ -4353,7 +4309,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178716987",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.356Z"
+  "fetched_at": "2026-10-01T17:03:19.437Z"
  },
  {
   "id": "sie-33cb1dd485",
@@ -4375,7 +4331,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D182388252",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.356Z"
+  "fetched_at": "2026-10-01T17:03:19.437Z"
  },
  {
   "id": "sie-41ac360881",
@@ -4397,7 +4353,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207817550",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.357Z"
+  "fetched_at": "2026-10-01T17:03:19.437Z"
  },
  {
   "id": "sie-e0532fae0e",
@@ -4419,7 +4375,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D202306881",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.357Z"
+  "fetched_at": "2026-10-01T17:03:19.437Z"
  },
  {
   "id": "sie-d9aac5f57a",
@@ -4441,7 +4397,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209770656",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.358Z"
+  "fetched_at": "2026-10-01T17:03:19.438Z"
  },
  {
   "id": "sie-16af67fe30",
@@ -4463,7 +4419,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170492",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.358Z"
+  "fetched_at": "2026-10-01T17:03:19.438Z"
  },
  {
   "id": "sie-593102f1a3",
@@ -4485,7 +4441,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159867",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.358Z"
+  "fetched_at": "2026-10-01T17:03:19.438Z"
  },
  {
   "id": "sie-05cf41f4fa",
@@ -4507,7 +4463,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178717405",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.359Z"
+  "fetched_at": "2026-10-01T17:03:19.438Z"
  },
  {
   "id": "sie-4d0f830dfe",
@@ -4529,7 +4485,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207470696",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.359Z"
+  "fetched_at": "2026-10-01T17:03:19.439Z"
  },
  {
   "id": "sie-9cb693c42f",
@@ -4551,7 +4507,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209027861",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.360Z"
+  "fetched_at": "2026-10-01T17:03:19.439Z"
  },
  {
   "id": "sie-fd9f4988bd",
@@ -4573,7 +4529,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D208312682",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.360Z"
+  "fetched_at": "2026-10-01T17:03:19.439Z"
  },
  {
   "id": "sie-0693168096",
@@ -4595,7 +4551,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159868",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.360Z"
+  "fetched_at": "2026-10-01T17:03:19.440Z"
  },
  {
   "id": "sie-76ad5481bf",
@@ -4617,7 +4573,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178718554",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.361Z"
+  "fetched_at": "2026-10-01T17:03:19.440Z"
  },
  {
   "id": "sie-2a04fe4797",
@@ -4639,7 +4595,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209993651",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.361Z"
+  "fetched_at": "2026-10-01T17:03:19.440Z"
  },
  {
   "id": "sie-ab24f4c120",
@@ -4661,7 +4617,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209027838",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.362Z"
+  "fetched_at": "2026-10-01T17:03:19.441Z"
  },
  {
   "id": "sie-f4bcce3b64",
@@ -4683,7 +4639,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170502",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.362Z"
+  "fetched_at": "2026-10-01T17:03:19.441Z"
  },
  {
   "id": "sie-31b85a756b",
@@ -4705,7 +4661,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159869",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.366Z"
+  "fetched_at": "2026-10-01T17:03:19.442Z"
  },
  {
   "id": "sie-ac3b472008",
@@ -4727,7 +4683,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178714237",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.366Z"
+  "fetched_at": "2026-10-01T17:03:19.442Z"
  },
  {
   "id": "sie-3a626c4f88",
@@ -4749,7 +4705,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170503",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.366Z"
+  "fetched_at": "2026-10-01T17:03:19.442Z"
  },
  {
   "id": "sie-29315ac877",
@@ -4771,7 +4727,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159870",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.367Z"
+  "fetched_at": "2026-10-01T17:03:19.442Z"
  },
  {
   "id": "sie-5f18aa93f6",
@@ -4793,7 +4749,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178852625",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.367Z"
+  "fetched_at": "2026-10-01T17:03:19.443Z"
  },
  {
   "id": "sie-d5e438110a",
@@ -4815,7 +4771,29 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206829775",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.368Z"
+  "fetched_at": "2026-10-01T17:03:19.443Z"
+ },
+ {
+  "id": "sie-10a15fae92",
+  "source": "smithsonian-events",
+  "title": "After Dark: Stories We Carry",
+  "desc": "Join the Smithsonian&#8217;s Anacostia Community Museum for After Dark: Stories We Carry, an evening of art, music, memory, and connection inspired by our exhibition, We Make History . We Make History explores how everyday people make and preserve history through the stories they tell, the experiences they share, and the communities they shape. Stories We Carry invites you to reflect on the memori",
+  "start": "2026-11-12T19:00:00-05:00",
+  "end": "2026-11-12T22:00:00-05:00",
+  "venue": {
+   "name": "Anacostia Community Museum",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": null,
+  "age_max_m": null,
+  "cost": "free",
+  "setting": "out",
+  "weather": "unknown",
+  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D210188682",
+  "status": "draft",
+  "fetched_at": "2026-10-01T17:03:19.443Z"
  },
  {
   "id": "sie-8ba47b9fff",
@@ -4837,7 +4815,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D210008556",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.368Z"
+  "fetched_at": "2026-10-01T17:03:19.444Z"
  },
  {
   "id": "sie-d98632aede",
@@ -4859,7 +4837,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D198804113",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.368Z"
+  "fetched_at": "2026-10-01T17:03:19.444Z"
  },
  {
   "id": "sie-dcb2629a9b",
@@ -4881,7 +4859,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159871",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.368Z"
+  "fetched_at": "2026-10-01T17:03:19.444Z"
  },
  {
   "id": "sie-de929b419f",
@@ -4903,7 +4881,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178716988",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.369Z"
+  "fetched_at": "2026-10-01T17:03:19.444Z"
  },
  {
   "id": "sie-a69afa763d",
@@ -4925,7 +4903,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D182388253",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.369Z"
+  "fetched_at": "2026-10-01T17:03:19.444Z"
  },
  {
   "id": "sie-9b090fed4e",
@@ -4947,7 +4925,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207817551",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.369Z"
+  "fetched_at": "2026-10-01T17:03:19.445Z"
  },
  {
   "id": "sie-c14d92a94a",
@@ -4969,7 +4947,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206413392",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.370Z"
+  "fetched_at": "2026-10-01T17:03:19.445Z"
  },
  {
   "id": "sie-574a203d4f",
@@ -4991,7 +4969,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D207170504",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.370Z"
+  "fetched_at": "2026-10-01T17:03:19.445Z"
  },
  {
   "id": "sie-d983e29a94",
@@ -5013,7 +4991,7 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159872",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.370Z"
+  "fetched_at": "2026-10-01T17:03:19.446Z"
  },
  {
   "id": "sie-f75632760a",
@@ -5035,6 +5013,94 @@
   "weather": "unknown",
   "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178717406",
   "status": "draft",
-  "fetched_at": "2026-09-30T16:25:35.371Z"
+  "fetched_at": "2026-10-01T17:03:19.446Z"
+ },
+ {
+  "id": "sie-4765d3b7e2",
+  "source": "smithsonian-events",
+  "title": "Art Studio",
+  "desc": "Calling all artists! Join the Portrait Gallery for a free, drop-in art program,&#160;where creativity knows no bounds. Every weekend,&#160;visitors&#160;of all ages are invited to explore a different artistic medium while drawing inspiration from the Portrait Gallery&#8217;s collections and exhibitions. On select weekends, learn from a featured guest artist, who will lead specialized workshops and",
+  "start": "2026-11-14T11:30:00-05:00",
+  "end": "2026-11-14T13:30:00-05:00",
+  "venue": {
+   "name": "Portrait Gallery",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": 0,
+  "age_max_m": null,
+  "cost": "free",
+  "setting": "out",
+  "weather": "unknown",
+  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D209027864",
+  "status": "draft",
+  "fetched_at": "2026-10-01T17:03:19.446Z"
+ },
+ {
+  "id": "sie-489e1ad73e",
+  "source": "smithsonian-events",
+  "title": "Spark!Lab",
+  "desc": "Spark!Lab is where museum visitors become inventors. The Lemelson Center for the Study of Invention and Innovation invites children between the ages of 6 and 12 to create, collaborate, explore, test, experiment and invent. Activities for children and families incorporate traditional science, technology, engineering and math (STEM) with art, history and creativity.",
+  "start": "2026-11-15T10:00:00-05:00",
+  "end": "2026-11-15T16:00:00-05:00",
+  "venue": {
+   "name": "American History Museum",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": null,
+  "age_max_m": null,
+  "cost": "free",
+  "setting": "out",
+  "weather": "unknown",
+  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D190159873",
+  "status": "draft",
+  "fetched_at": "2026-10-01T17:03:19.447Z"
+ },
+ {
+  "id": "sie-df1570cff5",
+  "source": "smithsonian-events",
+  "title": "Wonderplace",
+  "desc": "**DUE TO LIMITED STAFFING, WONDERPLACE WILL BE CLOSED FOR 12:30 - 1:30 PM ON SUNDAY, NOVEMBER 3.** This learning space designed especially for children ages six and under combines age appropriate activities with museum collections and touchable objects to provide a gateway to history and a place to exercise curiosity for the youngest historians. &#160; Admission to Wonderplace is on a first come, ",
+  "start": "2026-11-15T10:00:00-05:00",
+  "end": "2026-11-15T16:00:00-05:00",
+  "venue": {
+   "name": "American History Museum",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": null,
+  "age_max_m": null,
+  "cost": "free",
+  "setting": "out",
+  "weather": "unknown",
+  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D178718555",
+  "status": "draft",
+  "fetched_at": "2026-10-01T17:03:19.447Z"
+ },
+ {
+  "id": "sie-677239c19a",
+  "source": "smithsonian-events",
+  "title": "American Art Family Day",
+  "desc": "Explore SAAM&#8217;s newly reopened collection galleries with a day of family-friendly activities. Drop in for a still life sketching studio, then complete an elements of art activity in the galleries. Children 12 and under can enjoy a selection of crafts and coloring pages in the Kogod Courtyard. Food and beverage specials will be available for purchase from the Courtyard Caf&#233;. Photo by Norw",
+  "start": "2026-11-15T11:30:00-05:00",
+  "end": "2026-11-15T15:00:00-05:00",
+  "venue": {
+   "name": "American Art Museum",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": 0,
+  "age_max_m": 144,
+  "cost": "free",
+  "setting": "out",
+  "weather": "unknown",
+  "url": "https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D206413396",
+  "status": "draft",
+  "fetched_at": "2026-10-01T17:03:19.447Z"
  }
 ]
