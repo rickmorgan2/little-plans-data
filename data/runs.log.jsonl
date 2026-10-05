@@ -186,3 +186,5 @@
 {"ts":"2026-10-03T14:45:13.642Z","skill":"smithsonian-events","ok":true,"fetched":206,"added":6,"updated":200,"ms":1593}
 {"ts":"2026-10-04T15:23:49.033Z","skill":"nps-events","ok":true,"fetched":59,"added":0,"updated":59,"ms":2084}
 {"ts":"2026-10-04T15:23:50.603Z","skill":"smithsonian-events","ok":true,"fetched":196,"added":2,"updated":194,"ms":1570}
+{"ts":"2026-10-05T19:19:00.231Z","skill":"nps-events","ok":true,"fetched":56,"added":2,"updated":54,"ms":1272}
+{"ts":"2026-10-05T19:19:01.288Z","skill":"smithsonian-events","ok":true,"fetched":199,"added":7,"updated":192,"ms":1057}
