@@ -204,3 +204,5 @@
 {"ts":"2026-10-12T19:50:29.342Z","skill":"nps-events","ok":true,"fetched":52,"added":1,"updated":51,"ms":1406}
 {"ts":"2026-10-12T19:50:30.046Z","skill":"smithsonian-events","ok":true,"fetched":185,"added":3,"updated":182,"ms":704}
 {"ts":"2026-10-12T20:18:58.237Z","skill":"dc-rec-facilities","ok":true,"fetched":147,"added":0,"updated":147,"ms":1187}
+{"ts":"2026-10-13T17:37:42.806Z","skill":"nps-events","ok":true,"fetched":51,"added":0,"updated":51,"ms":1321}
+{"ts":"2026-10-13T17:38:06.102Z","skill":"smithsonian-events","ok":true,"fetched":189,"added":4,"updated":185,"ms":23296}
