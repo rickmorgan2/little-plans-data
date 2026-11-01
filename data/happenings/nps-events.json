@@ -1,93 +1,5 @@
 [
  {
-  "id": "nps-3ae4ed9ee2",
-  "source": "nps-events",
-  "title": "Building Camelot: JFK in Georgetown",
-  "desc": "Come join a ranger as we walk in the same path of John F. Kennedy as he first arrived in Geor get own in 1946 as a 2 9-yea r-old congressman to his meteoric rise to our 35 th Presi dent. The t our is appropriate for all ages . Wear comfortable walking shoes and bring water . This hike will utilize sidewalks that can be narrow and uneven at times. It will traverse nearly two miles of neighborhood s",
-  "start": "2026-10-30T14:00:00-04:00",
-  "end": "2026-10-30T15:00:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": 0,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-10-30T16:42:51.727Z"
- },
- {
-  "id": "nps-9776ffda08",
-  "source": "nps-events",
-  "title": "Introduction to Hiking: Woodland Loop with a Ranger",
-  "desc": "During this ½ mile excursion, beginner explorers learn the hiking essentials, such as trail safety, what to wear or bring to a hike, and how to Recreate Responsibly all while looking at and respecting nature found in our woodlands. This ranger-led hike is intended to create treasured trail experiences for families interested in planning more advance hikes as their children become more experienced.",
-  "start": "2026-10-30T15:30:00-04:00",
-  "end": "2026-10-30T16:30:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-10-30T16:42:51.727Z"
- },
- {
-  "id": "nps-7ee5202344",
-  "source": "nps-events",
-  "title": "Fun with Flora and Fauna",
-  "desc": "Spend Friday afternoons and Sunday mornings at Rock Creek Park learning about our wild and wonderful urban oasis ! Par k Rangers will teach kids (and people of all ages) about the fantastic flora and fauna in the park. Meet the ranger on the Nature Center front porch.",
-  "start": "2026-10-30T16:00:00-04:00",
-  "end": "2026-10-30T16:30:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": 0,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-10-30T16:42:51.711Z"
- },
- {
-  "id": "nps-116f22a254",
-  "source": "nps-events",
-  "title": "Ranger Tours at Peirce Mill",
-  "desc": "Step inside Peirce Mill, a rare surviving 19th-century gristmill in Rock Creek Park, and discover how waterpower once supported daily life in Washington, DC. Built in the 1820s, the mill served local farmers by grinding grain into flour and cornmeal. On this guided tour, you’ll explore the mill’s machinery, including the waterwheel, gears, and millstones that brought the process to life. Learn how",
-  "start": "2026-10-31T10:00:00-04:00",
-  "end": "2026-10-31T10:45:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": null,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.010Z"
- },
- {
   "id": "nps-91dfc12a5e",
   "source": "nps-events",
   "title": "Lockhouse 44 - Williamsport",
@@ -108,28 +20,6 @@
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
   "fetched_at": "2026-10-31T15:45:26.019Z"
- },
- {
-  "id": "nps-e526a0296c",
-  "source": "nps-events",
-  "title": "Ranger Tours at the Old Stone House",
-  "desc": "Step back in time with a ranger-led tour of the Old Stone House, the oldest building in the nation’s capital. Discover what life was like in the 18th century as you explore its simple rooms, learn about early residents, and uncover the stories hidden within its stone walls. Perfect for visitors of all ages, this short tour offers a glimpse into everyday colonial life right in the heart of the city",
-  "start": "2026-10-31T11:30:00-04:00",
-  "end": "2026-10-31T12:00:00-04:00",
-  "venue": {
-   "name": "Rock Creek Park",
-   "address": null,
-   "lat": null,
-   "lon": null
-  },
-  "age_min_m": 0,
-  "age_max_m": null,
-  "cost": "free",
-  "setting": "out",
-  "weather": "any",
-  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
-  "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.010Z"
  },
  {
   "id": "nps-2e3d149b85",
@@ -173,7 +63,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.016Z"
+  "fetched_at": "2026-11-01T16:49:48.579Z"
  },
  {
   "id": "nps-105aa63fa2",
@@ -195,7 +85,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.011Z"
+  "fetched_at": "2026-11-01T16:49:48.576Z"
  },
  {
   "id": "nps-d6edbbb0e0",
@@ -217,7 +107,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.003Z"
+  "fetched_at": "2026-11-01T16:49:48.572Z"
  },
  {
   "id": "nps-035ba05b09",
@@ -239,7 +129,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.004Z"
+  "fetched_at": "2026-11-01T16:49:48.573Z"
  },
  {
   "id": "nps-22ef0bdbac",
@@ -261,7 +151,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.019Z"
+  "fetched_at": "2026-11-01T16:49:48.581Z"
  },
  {
   "id": "nps-8af074cd12",
@@ -283,7 +173,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.019Z"
+  "fetched_at": "2026-11-01T16:49:48.581Z"
  },
  {
   "id": "nps-874d37b67e",
@@ -305,7 +195,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.007Z"
+  "fetched_at": "2026-11-01T16:49:48.574Z"
  },
  {
   "id": "nps-d422a59e95",
@@ -327,7 +217,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.011Z"
+  "fetched_at": "2026-11-01T16:49:48.576Z"
  },
  {
   "id": "nps-68f763ad2f",
@@ -349,7 +239,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.004Z"
+  "fetched_at": "2026-11-01T16:49:48.573Z"
  },
  {
   "id": "nps-2aed845f74",
@@ -371,7 +261,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.016Z"
+  "fetched_at": "2026-11-01T16:49:48.579Z"
  },
  {
   "id": "nps-94a797d0ef",
@@ -393,7 +283,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.011Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-9ea55b7156",
@@ -415,7 +305,29 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.005Z"
+  "fetched_at": "2026-11-01T16:49:48.573Z"
+ },
+ {
+  "id": "nps-109601b1f5",
+  "source": "nps-events",
+  "title": "Introduction to Hiking: Woodland Loop with a Ranger",
+  "desc": "During this ½ mile excursion, beginner explorers learn the hiking essentials, such as trail safety, what to wear or bring to a hike, and how to Recreate Responsibly all while looking at and respecting nature found in our woodlands. This ranger-led hike is intended to create treasured trail experiences for families interested in planning more advance hikes as their children become more experienced.",
+  "start": "2026-11-13T15:30:00-05:00",
+  "end": "2026-11-13T16:30:00-05:00",
+  "venue": {
+   "name": "Rock Creek Park",
+   "address": null,
+   "lat": null,
+   "lon": null
+  },
+  "age_min_m": null,
+  "age_max_m": null,
+  "cost": "free",
+  "setting": "out",
+  "weather": "any",
+  "url": "https://www.nps.gov/planyourvisit/event-search.htm",
+  "status": "draft",
+  "fetched_at": "2026-11-01T16:49:48.581Z"
  },
  {
   "id": "nps-ea4a43b59a",
@@ -437,7 +349,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.007Z"
+  "fetched_at": "2026-11-01T16:49:48.574Z"
  },
  {
   "id": "nps-190d37ed0a",
@@ -459,7 +371,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.011Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-0979b9e4f3",
@@ -481,7 +393,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.005Z"
+  "fetched_at": "2026-11-01T16:49:48.573Z"
  },
  {
   "id": "nps-1536796028",
@@ -503,7 +415,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.016Z"
+  "fetched_at": "2026-11-01T16:49:48.579Z"
  },
  {
   "id": "nps-83a20e1848",
@@ -525,7 +437,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.011Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-ace8d9689c",
@@ -547,7 +459,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.005Z"
+  "fetched_at": "2026-11-01T16:49:48.573Z"
  },
  {
   "id": "nps-5fb86130e6",
@@ -569,7 +481,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.007Z"
+  "fetched_at": "2026-11-01T16:49:48.574Z"
  },
  {
   "id": "nps-2ea7ef2771",
@@ -591,7 +503,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.012Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-daa51a38fa",
@@ -613,7 +525,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.005Z"
+  "fetched_at": "2026-11-01T16:49:48.573Z"
  },
  {
   "id": "nps-e17f1c67b2",
@@ -635,7 +547,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.016Z"
+  "fetched_at": "2026-11-01T16:49:48.579Z"
  },
  {
   "id": "nps-d99aeb0afa",
@@ -657,7 +569,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.012Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-8284a40d75",
@@ -679,7 +591,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.006Z"
+  "fetched_at": "2026-11-01T16:49:48.573Z"
  },
  {
   "id": "nps-6139baa381",
@@ -701,7 +613,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.008Z"
+  "fetched_at": "2026-11-01T16:49:48.575Z"
  },
  {
   "id": "nps-8038667517",
@@ -723,7 +635,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.012Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-517f4c89b6",
@@ -745,7 +657,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.006Z"
+  "fetched_at": "2026-11-01T16:49:48.574Z"
  },
  {
   "id": "nps-61018b93ee",
@@ -767,7 +679,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.016Z"
+  "fetched_at": "2026-11-01T16:49:48.580Z"
  },
  {
   "id": "nps-d8c30304c0",
@@ -811,7 +723,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.006Z"
+  "fetched_at": "2026-11-01T16:49:48.574Z"
  },
  {
   "id": "nps-5a7699d3b2",
@@ -833,7 +745,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.008Z"
+  "fetched_at": "2026-11-01T16:49:48.575Z"
  },
  {
   "id": "nps-9140b53584",
@@ -855,7 +767,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.012Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-0592272baa",
@@ -877,7 +789,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.006Z"
+  "fetched_at": "2026-11-01T16:49:48.574Z"
  },
  {
   "id": "nps-690d075563",
@@ -899,7 +811,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.017Z"
+  "fetched_at": "2026-11-01T16:49:48.580Z"
  },
  {
   "id": "nps-1641e766ac",
@@ -921,7 +833,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.013Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-6032b7903a",
@@ -943,7 +855,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.003Z"
+  "fetched_at": "2026-11-01T16:49:48.572Z"
  },
  {
   "id": "nps-cd03f5beeb",
@@ -965,7 +877,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.006Z"
+  "fetched_at": "2026-11-01T16:49:48.574Z"
  },
  {
   "id": "nps-6da1ced213",
@@ -987,7 +899,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.008Z"
+  "fetched_at": "2026-11-01T16:49:48.575Z"
  },
  {
   "id": "nps-7ceee5e0e1",
@@ -1009,7 +921,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.013Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  },
  {
   "id": "nps-d67a26c4de",
@@ -1031,7 +943,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.006Z"
+  "fetched_at": "2026-11-01T16:49:48.574Z"
  },
  {
   "id": "nps-cfc0705404",
@@ -1053,7 +965,7 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.017Z"
+  "fetched_at": "2026-11-01T16:49:48.580Z"
  },
  {
   "id": "nps-f55cc761db",
@@ -1075,6 +987,6 @@
   "weather": "any",
   "url": "https://www.nps.gov/planyourvisit/event-search.htm",
   "status": "draft",
-  "fetched_at": "2026-10-31T15:45:26.013Z"
+  "fetched_at": "2026-11-01T16:49:48.577Z"
  }
 ]
